@@ -1,105 +1,105 @@
 {
   "relationships": {
-    "King Aldric|Queen Seraphina": 1,
+    "King Aldric|Queen Seraphina": 1.0,
     "Captain Gareth|King Aldric": 1,
     "King Aldric|Knight Rowan": 1.0,
-    "Captain Gareth|Queen Seraphina": 1,
-    "Knight Rowan|Queen Seraphina": 1,
-    "Captain Gareth|Knight Rowan": 1,
+    "Captain Gareth|Queen Seraphina": 1.0,
+    "Knight Rowan|Queen Seraphina": 1.0,
+    "Captain Gareth|Knight Rowan": 1.0,
     "Vendor Mirela|Wanderer Kai": 1.0,
     "Pilgrim Yara|Vendor Mirela": 1.0,
-    "Forgemaster Hilda|Smith Ragnar": 1,
-    "Pilgrim Yara|Wanderer Kai": 1,
+    "Forgemaster Hilda|Smith Ragnar": 1.0,
+    "Pilgrim Yara|Wanderer Kai": 1.0,
     "Old Marta|Worker Amos": 1.0,
     "Builder Petra|Farmer Giles": 1.0,
     "Builder Petra|Field Hand Ivy": 1,
     "Farmer Giles|Field Hand Ivy": 1.0,
-    "Field Hand Ivy|Young Felix": 1,
-    "Beggar Tom|Milkmaid Rosa": 1,
-    "Guard Helena|King Aldric": 1.0,
-    "Guard Helena|Queen Seraphina": 1,
+    "Field Hand Ivy|Young Felix": 1.0,
+    "Beggar Tom|Milkmaid Rosa": 1.0,
+    "Guard Helena|King Aldric": 1,
+    "Guard Helena|Queen Seraphina": 1.0,
     "Captain Gareth|Guard Helena": 1,
-    "Guard Helena|Knight Rowan": 1,
-    "Beggar Tom|Shepherd Nils": 1,
+    "Guard Helena|Knight Rowan": 1.0,
+    "Beggar Tom|Shepherd Nils": 1.0,
     "Explorer Thane|Trader Elara": 1.0,
     "Lady Isolde|Lord Cedric": 1.0,
     "Merchant Tobias|Shopkeep Boris": 1.0,
-    "Milkmaid Rosa|Widow Greta": 1,
+    "Milkmaid Rosa|Widow Greta": 1.0,
     "Captain Gareth|Hauler Bron": 0.9876021929164454,
     "Hauler Bron|Knight Rowan": 0.7492902197484009,
     "Guard Helena|Hauler Bron": 0.6618978888450806,
     "Merchant Tobias|Pilgrim Yara": 1.0,
-    "Hauler Bron|Worker Amos": 1,
-    "Field Hand Ivy|Milkmaid Rosa": 1,
-    "Worker Amos|Young Felix": 1,
+    "Hauler Bron|Worker Amos": 1.0,
+    "Field Hand Ivy|Milkmaid Rosa": 1.0,
+    "Worker Amos|Young Felix": 1.0,
     "Builder Petra|Milkmaid Rosa": 1.0,
     "Hauler Bron|Young Felix": 1.0,
     "Farmer Giles|Young Felix": 1.0,
     "Farmer Giles|Worker Amos": 1.0,
     "Shepherd Nils|Worker Amos": 1.0,
-    "Beggar Tom|Builder Petra": 1,
+    "Beggar Tom|Builder Petra": 1.0,
     "Beggar Tom|Field Hand Ivy": 1,
     "Shepherd Nils|Young Felix": 1.0,
     "Lord Cedric|Lord Percival": 1.0,
-    "Lady Isolde|Lord Percival": 1,
+    "Lady Isolde|Lord Percival": 1.0,
     "Old Marta|Young Felix": 1.0,
-    "Old Marta|Shepherd Nils": 1,
-    "Builder Petra|Young Felix": 1,
+    "Old Marta|Shepherd Nils": 1.0,
+    "Builder Petra|Young Felix": 1.0,
     "Beggar Tom|Young Felix": 1.0,
     "Milkmaid Rosa|Young Felix": 1.0,
-    "Builder Petra|Widow Greta": 1,
+    "Builder Petra|Widow Greta": 1.0,
     "Hauler Bron|Shepherd Nils": 1.0,
     "Field Hand Ivy|Old Marta": 1.0,
-    "Milkmaid Rosa|Old Marta": 1,
+    "Milkmaid Rosa|Old Marta": 1.0,
     "Beggar Tom|Widow Greta": 1,
-    "Farmer Giles|Widow Greta": 1,
+    "Farmer Giles|Widow Greta": 1.0,
     "Beggar Tom|Farmer Giles": 1.0,
-    "Farmer Giles|Milkmaid Rosa": 1,
+    "Farmer Giles|Milkmaid Rosa": 1.0,
     "Beggar Tom|Old Marta": 1,
     "Widow Greta|Young Felix": 1.0,
-    "Field Hand Ivy|Widow Greta": 1,
+    "Field Hand Ivy|Widow Greta": 1.0,
     "Farmer Giles|Old Marta": 1.0,
-    "Old Marta|Widow Greta": 1.0,
+    "Old Marta|Widow Greta": 1,
     "Shopkeep Boris|Wanderer Kai": 1.0,
-    "Merchant Tobias|Vendor Mirela": 1,
-    "Hauler Bron|Widow Greta": 1,
-    "Pilgrim Yara|Trader Elara": 1.0,
+    "Merchant Tobias|Vendor Mirela": 1.0,
+    "Hauler Bron|Widow Greta": 1.0,
+    "Pilgrim Yara|Trader Elara": 1,
     "Pilgrim Yara|Shopkeep Boris": 1.0,
     "Builder Petra|Hauler Bron": 1,
     "Explorer Thane|Shopkeep Boris": 1.0,
-    "Explorer Thane|Wanderer Kai": 1,
+    "Explorer Thane|Wanderer Kai": 1.0,
     "Farmer Giles|Hauler Bron": 1.0,
-    "Field Hand Ivy|Hauler Bron": 1.0,
+    "Field Hand Ivy|Hauler Bron": 1,
     "Builder Petra|Old Marta": 1.0,
     "Field Hand Ivy|Worker Amos": 1.0,
     "Lady Isolde|Queen Seraphina": 0.5930052426050496,
     "Shopkeep Boris|Trader Elara": 1.0,
-    "Trader Elara|Vendor Mirela": 1,
-    "Shepherd Nils|Widow Greta": 1,
-    "Milkmaid Rosa|Shepherd Nils": 1,
+    "Trader Elara|Vendor Mirela": 1.0,
+    "Shepherd Nils|Widow Greta": 1.0,
+    "Milkmaid Rosa|Shepherd Nils": 1.0,
     "Field Hand Ivy|Shepherd Nils": 1.0,
     "Forgemaster Hilda|Trader Elara": 1.0,
     "Forgemaster Hilda|Vendor Mirela": 1.0,
     "Hauler Bron|Old Marta": 1.0,
     "Builder Petra|Worker Amos": 1.0,
-    "Smith Ragnar|Vendor Mirela": 1,
+    "Smith Ragnar|Vendor Mirela": 1.0,
     "Builder Petra|Shepherd Nils": 1.0,
     "Milkmaid Rosa|Worker Amos": 1.0,
-    "Farmer Giles|Shepherd Nils": 1,
-    "Explorer Thane|Vendor Mirela": 1.0,
-    "Widow Greta|Worker Amos": 1,
-    "Beggar Tom|Worker Amos": 1,
+    "Farmer Giles|Shepherd Nils": 1.0,
+    "Explorer Thane|Vendor Mirela": 1,
+    "Widow Greta|Worker Amos": 1.0,
+    "Beggar Tom|Worker Amos": 1.0,
     "Explorer Thane|Merchant Tobias": 1.0,
-    "Explorer Thane|Pilgrim Yara": 1,
+    "Explorer Thane|Pilgrim Yara": 1.0,
     "Beggar Tom|Hauler Bron": 1,
     "Hauler Bron|Milkmaid Rosa": 1.0,
     "Shopkeep Boris|Vendor Mirela": 1.0,
     "Merchant Tobias|Wanderer Kai": 1.0,
-    "Merchant Tobias|Trader Elara": 1,
+    "Merchant Tobias|Trader Elara": 1.0,
     "Lady Isolde|Smith Ragnar": 0.5826821560435492,
     "Forgemaster Hilda|Lady Isolde": 0.5681440133916008,
     "Knight Rowan|Lord Cedric": 1.0,
-    "Merchant Tobias|Smith Ragnar": 1,
+    "Merchant Tobias|Smith Ragnar": 1.0,
     "King Aldric|Pilgrim Yara": 0.7882758541850484,
     "Captain Gareth|Pilgrim Yara": 0.6575913174165957,
     "Lord Cedric|Queen Seraphina": 0.8493483918970793,
@@ -142,14 +142,14 @@
     "Knight Rowan|Wanderer Kai": 0.5053403040217731,
     "Guard Helena|Shepherd Nils": 0.6257778697841213,
     "Farmer Giles|Guard Helena": 0.5642390244705247,
-    "King Aldric|Lady Isolde": 1,
+    "King Aldric|Lady Isolde": 1.0,
     "Knight Rowan|Lady Isolde": 0.7969031068565027,
     "Guard Helena|Merchant Tobias": 0.8442807300455413,
     "Captain Gareth|Widow Greta": 0.47977702320760673,
     "Captain Gareth|Shopkeep Boris": 0.8684987769771746,
     "Guard Helena|Smith Ragnar": 0.7065326168902024,
     "Lord Percival|Queen Seraphina": 1.0,
-    "Knight Rowan|Lord Percival": 1
+    "Knight Rowan|Lord Percival": 1.0
   },
   "npc_profiles": {
     "King Aldric": {
@@ -171,7 +171,6 @@
         "lasting peace"
       ],
       "experiences": [
-        "overheard news chatter: I am not sure I believe that rumor.",
         "overheard affection chatter: That choice is rarer than gold in this world.",
         "overheard deep chatter: my friend, After overheard news chatter: I heard this: Rumor say",
         "overheard humor chatter: oh sir, Sure, sure. True. Laughter feeds the soul when bread is ",
@@ -180,14 +179,15 @@
         "overheard deep chatter: Honestly? loyal troops. Nothing grand, just real.",
         "overheard deep chatter: Maybe not, but I do. That should count for something.",
         "overheard deep chatter: honestly, That memory is why people trust you now.",
-        "overheard humor chatter: listen, Ha, then the treasury would finally love us. Guard keeps"
+        "overheard humor chatter: listen, Ha, then the treasury would finally love us. Guard keeps",
+        "overheard deep chatter: Then courage is choosing decency anyway."
       ],
       "romantic_memory": "protective of loved ones",
       "bond_bias": {
         "Queen Seraphina": 0.9349999999999999,
         "Captain Gareth": 1.0,
         "Knight Rowan": 1.0,
-        "Guard Helena": 0.9219999999999999,
+        "Guard Helena": 0.992,
         "Pilgrim Yara": 0.3450000000000001,
         "Lord Percival": 0.18,
         "Hauler Bron": 0.010000000000000193,
@@ -197,11 +197,10 @@
         "Merchant Tobias": 0.49500000000000033,
         "Lady Isolde": 0.2500000000000001
       },
-      "last_mood": 0.23458862387538926,
-      "last_trust": 0.0,
+      "last_mood": 0.8672817336281842,
+      "last_trust": 0.5,
       "last_topic": "affection",
       "life_events": [
-        "overheard news chatter: That is important. I will pass it along.",
         "overheard deep chatter: Maybe not, but I do. That should count for something.",
         "overheard deep chatter: honestly, That memory is why people trust you now.",
         "overheard humor chatter: listen, Ha, then the treasury would finally love us. Guard keeps",
@@ -220,7 +219,8 @@
         "Raiders looted treasure from castle",
         "Raiders looted treasure from noble_house_w2",
         "Raiders looted treasure from noble_house_e2",
-        "Raiders stole village treasure and left deep fear"
+        "Raiders stole village treasure and left deep fear",
+        "overheard deep chatter: Then courage is choosing decency anyway."
       ],
       "voice_style": "wry",
       "humor_style": "playful",
@@ -279,8 +279,8 @@
         "Hauler Bron": -0.0019999999999998595,
         "Lord Percival": 0.4870000000000002
       },
-      "last_mood": 0.36847532881695505,
-      "last_trust": 0.003749855873937907,
+      "last_mood": 0.6282649678437107,
+      "last_trust": 0.5,
       "last_topic": "deep",
       "life_events": [
         "overheard deep chatter: my friend, You carry overheard sadness chatter: my friend, Then ",
@@ -362,8 +362,8 @@
         "Pilgrim Yara": 1.0,
         "Merchant Tobias": 0.035
       },
-      "last_mood": 0.39242342306217065,
-      "last_trust": 0.013703869060301254,
+      "last_mood": 0.8939500922173875,
+      "last_trust": 0.5,
       "last_topic": "affection",
       "life_events": [
         "overheard sadness chatter: I am tired of carrying overheard sadness chatter: Then we rememb",
@@ -446,8 +446,8 @@
         "King Aldric": 0.2500000000000001,
         "Knight Rowan": 0.24000000000000002
       },
-      "last_mood": 0.11627050107691438,
-      "last_trust": 0.0,
+      "last_mood": 0.844009755304594,
+      "last_trust": 0.5,
       "last_topic": "affection",
       "life_events": [
         "overheard lie chatter: That is a lie, but it might keep you out of jail.",
@@ -530,8 +530,8 @@
         "Queen Seraphina": 0.4870000000000002,
         "Knight Rowan": 1.0
       },
-      "last_mood": 0.1594174407767255,
-      "last_trust": 0.013720553648689975,
+      "last_mood": 0.8162890754546805,
+      "last_trust": 0.5,
       "last_topic": "deep",
       "life_events": [
         "overheard news chatter: That is important. I will pass it along.",
@@ -590,7 +590,6 @@
         "loyal troops"
       ],
       "experiences": [
-        "overheard news chatter: I am not sure I believe that rumor.",
         "Rallied to defend the village during a raid",
         "overheard affection chatter: I know. We keep each other steady through this life.",
         "overheard deep chatter: Small desires keep people human.",
@@ -599,7 +598,8 @@
         "overheard affection chatter: My desire is simple now: loyal subjects. Maybe with you beside m",
         "overheard news chatter: I heard this: Market talk says grain and trust rise or fall toge",
         "overheard affection chatter: That choice is rarer than gold in this world.",
-        "overheard affection chatter: Then let us protect what we love, not lose it to fear."
+        "overheard affection chatter: Then let us protect what we love, not lose it to fear.",
+        "overheard affection chatter: Even after Raiders stole village treasure and left deep fear, I "
       ],
       "romantic_memory": "protective of loved ones",
       "bond_bias": {
@@ -617,12 +617,10 @@
         "Widow Greta": 0.076,
         "Shopkeep Boris": -0.099
       },
-      "last_mood": 0.340145690932516,
-      "last_trust": 0.0037013418538992438,
-      "last_topic": "sadness",
+      "last_mood": 0.9112154456782434,
+      "last_trust": 0.5,
+      "last_topic": "deep",
       "life_events": [
-        "overheard sadness chatter: I am tired of carrying heard rumor: News from elite circles: ove",
-        "overheard lie chatter: I never touched the ledger, and that is what I will swear.",
         "heard rumor: People whisper that leaders may push for stable succession before next",
         "overheard lie chatter: If the watch asks, tell 'em I worked beside you, Knight Rowan.",
         "overheard sadness chatter: listen, After overheard deep chatter: my friend, truth be told, ",
@@ -640,7 +638,9 @@
         "overheard affection chatter: That choice is rarer than gold in this world.",
         "heard rumor: Market talk says grain and trust rise or fall together this season.",
         "overheard affection chatter: Then let us protect what we love, not lose it to fear.",
-        "overheard lie chatter: You are gambling on a dangerous lie."
+        "overheard lie chatter: You are gambling on a dangerous lie.",
+        "heard rumor: Market talk says grain and trust rise or fall together this season.",
+        "overheard affection chatter: Even after Raiders stole village treasure and left deep fear, I "
       ],
       "voice_style": "stern",
       "humor_style": "dark",
@@ -700,8 +700,8 @@
         "Lady Isolde": 0.24000000000000002,
         "Lord Percival": 1.0
       },
-      "last_mood": 0.32397043260580594,
-      "last_trust": 0.0,
+      "last_mood": 0.8561610232635244,
+      "last_trust": 0.5,
       "last_topic": "affection",
       "life_events": [
         "overheard sadness chatter: my friend, Some nights I fear this place is forgetting kindness.",
@@ -760,7 +760,6 @@
         "public order"
       ],
       "experiences": [
-        "overheard deep chatter: Small desires keep people human.",
         "overheard deep chatter: my friend, My hardship lately is overheard lie chatter: If the w",
         "overheard affection chatter: When the village feels cruel, your voice feels like home.",
         "overheard news chatter: I heard this: Market talk says grain and trust rise or fall toge",
@@ -769,11 +768,12 @@
         "overheard affection chatter: After all our struggles, I still carry this: protective of loved",
         "overheard deep chatter: my friend, Small desires keep people human.",
         "heard rumor: Market talk says grain and trust rise or fall together this season.",
-        "overheard deep chatter: You carry overheard sadness chatter: my friend, Then we remember"
+        "overheard deep chatter: You carry overheard sadness chatter: my friend, Then we remember",
+        "overheard affection chatter: my friend, And your honesty keeps me brave."
       ],
       "romantic_memory": "still searching for true love",
       "bond_bias": {
-        "King Aldric": 0.9219999999999999,
+        "King Aldric": 0.992,
         "Queen Seraphina": 1.0,
         "Captain Gareth": 1.0,
         "Knight Rowan": 0.975,
@@ -790,11 +790,10 @@
         "Merchant Tobias": 0.2820000000000001,
         "Smith Ragnar": 0.04400000000000001
       },
-      "last_mood": 0.3390792144898721,
-      "last_trust": 0.0,
-      "last_topic": "affection",
+      "last_mood": 0.7452442207070463,
+      "last_trust": 0.5,
+      "last_topic": "deep",
       "life_events": [
-        "overheard news chatter: That is important. I will pass it along.",
         "overheard news chatter: That is important. I will pass it along.",
         "overheard affection chatter: When the village feels cruel, your voice feels like home.",
         "overheard lie chatter: my friend, Then keep your nerves steady or we both fall.",
@@ -813,7 +812,8 @@
         "overheard deep chatter: my friend, Small desires keep people human.",
         "heard rumor: Market talk says grain and trust rise or fall together this season.",
         "overheard sadness chatter: my friend, I noticed. The village has been heavy lately. Shepher",
-        "overheard deep chatter: You carry overheard sadness chatter: my friend, Then we remember"
+        "overheard deep chatter: You carry overheard sadness chatter: my friend, Then we remember",
+        "overheard affection chatter: my friend, And your honesty keeps me brave."
       ],
       "voice_style": "gentle",
       "humor_style": "dry",
@@ -873,9 +873,9 @@
         "Smith Ragnar": 0.04100000000000001,
         "Guard Helena": -0.0019999999999999844
       },
-      "last_mood": 0.28856177323904286,
-      "last_trust": 0.0,
-      "last_topic": "deep",
+      "last_mood": 0.7029110517714809,
+      "last_trust": 0.5,
+      "last_topic": "affection",
       "life_events": [
         "A sudden raid threatened village homes and treasure",
         "overheard news chatter: I heard this: People whisper that leaders may push for masterwor",
@@ -958,8 +958,8 @@
         "King Aldric": 0.49500000000000033,
         "Guard Helena": 0.2820000000000001
       },
-      "last_mood": 0.3594325646297045,
-      "last_trust": 0.0,
+      "last_mood": 0.5092227845926748,
+      "last_trust": 0.5,
       "last_topic": "lie",
       "life_events": [
         "A sudden raid threatened village homes and treasure",
@@ -1037,13 +1037,13 @@
         "Trader Elara": 1.0,
         "Forgemaster Hilda": 1.0,
         "Smith Ragnar": 1.0,
-        "Explorer Thane": 0.994,
+        "Explorer Thane": 1.0,
         "Shopkeep Boris": 0.97,
         "Lord Percival": 1.0
       },
-      "last_mood": 0.3693994067997451,
-      "last_trust": 0.0,
-      "last_topic": "sadness",
+      "last_mood": 0.7230523847421229,
+      "last_trust": 0.5,
+      "last_topic": "deep",
       "life_events": [
         "overheard news chatter: I heard this: Travelers claim night patrol routes changed after ",
         "heard rumor: Travelers claim night patrol routes changed after recent unrest.",
@@ -1126,8 +1126,8 @@
         "Guard Helena": 0.3500000000000001,
         "Captain Gareth": -0.099
       },
-      "last_mood": 0.24273866872090408,
-      "last_trust": 0.0,
+      "last_mood": 0.8722621099266037,
+      "last_trust": 0.5,
       "last_topic": "sadness",
       "life_events": [
         "overheard news chatter: I heard this: People whisper that leaders may push for belonging",
@@ -1212,8 +1212,8 @@
         "King Aldric": 0.18900000000000006,
         "Guard Helena": 0.04400000000000001
       },
-      "last_mood": 0.37298743002328383,
-      "last_trust": 0.0,
+      "last_mood": 0.7344653429529399,
+      "last_trust": 0.5,
       "last_topic": "sadness",
       "life_events": [
         "Raiders looted treasure from noble_house_e2",
@@ -1295,8 +1295,8 @@
         "Pilgrim Yara": -0.024000000000000004,
         "King Aldric": 0.8300000000000006
       },
-      "last_mood": 0.3446991200026763,
-      "last_trust": 0.0,
+      "last_mood": 0.8421184425369245,
+      "last_trust": 0.5,
       "last_topic": "sadness",
       "life_events": [
         "heard rumor: News from blacksmith circles: Economic hardship raised tensions and fe",
@@ -1378,8 +1378,8 @@
         "Forgemaster Hilda": 0.118,
         "Knight Rowan": -0.03
       },
-      "last_mood": 0.3514407323877231,
-      "last_trust": 0.0,
+      "last_mood": 0.6009308654695529,
+      "last_trust": 0.5,
       "last_topic": "sadness",
       "life_events": [
         "overheard affection chatter: my friend, That choice is rarer than gold in this world.",
@@ -1464,9 +1464,9 @@
         "Smith Ragnar": 0.003000000000000006,
         "Forgemaster Hilda": -0.024000000000000004
       },
-      "last_mood": 0.3940763381663631,
-      "last_trust": 0.0,
-      "last_topic": "sadness",
+      "last_mood": 0.7339514589343958,
+      "last_trust": 0.5,
+      "last_topic": "affection",
       "life_events": [
         "overheard lie chatter: If they ask about Raiders looted treasure from noble_house_w2, w",
         "overheard lie chatter: my friend, Then keep your nerves steady or we both fall.",
@@ -1540,7 +1540,7 @@
         "Trader Elara": 1.0,
         "Shopkeep Boris": 0.97,
         "Wanderer Kai": 1.0,
-        "Vendor Mirela": 0.994,
+        "Vendor Mirela": 1.0,
         "Merchant Tobias": 0.975,
         "Pilgrim Yara": 0.957,
         "Smith Ragnar": -0.00899999999999991,
@@ -1549,9 +1549,9 @@
         "King Aldric": 0.011000000000000346,
         "Guard Helena": 0.012
       },
-      "last_mood": 0.37588491328770823,
-      "last_trust": 0.0,
-      "last_topic": "sadness",
+      "last_mood": 0.804907265948861,
+      "last_trust": 0.5,
+      "last_topic": "deep",
       "life_events": [
         "overheard affection chatter: My desire is simple now: belonging. Maybe with you beside me.",
         "overheard deep chatter: If fear rules us, we become strangers to ourselves.",
@@ -1633,8 +1633,8 @@
         "Widow Greta": 1.0,
         "Beggar Tom": 1.0
       },
-      "last_mood": 0.3597992527679971,
-      "last_trust": 0.0,
+      "last_mood": 0.6087288493306355,
+      "last_trust": 0.5,
       "last_topic": "sadness",
       "life_events": [
         "overheard news chatter: I am not sure I believe that rumor.",
@@ -1693,16 +1693,16 @@
         "rest and dignity"
       ],
       "experiences": [
-        "overheard deep chatter: Last time we strayed too close to wrongdoing. I don't want that ",
-        "overheard deep chatter: my friend, Honestly? stable bread supply. Nothing grand, just re",
-        "overheard news chatter: I am not sure I believe that rumor.",
         "overheard affection chatter: my friend, When the village feels cruel, your voice feels like h",
         "overheard affection chatter: my friend, Then let us protect what we love, not lose it to fear",
         "overheard news chatter: That is important. I will pass it along.",
         "overheard affection chatter: my friend, Even after Raiders stole village treasure and left de",
         "heard rumor: Market talk says grain and trust rise or fall together this season.",
         "overheard affection chatter: My desire is simple now: a safe family. Maybe with you beside me",
-        "overheard deep chatter: If fear rules us, we become strangers to ourselves."
+        "overheard deep chatter: If fear rules us, we become strangers to ourselves.",
+        "overheard deep chatter: mark me, My heavyship lately is overheard lie chatter: Your stor",
+        "overheard news chatter: I heard this: People whisper that leaders may push for a safe fa",
+        "overheard humor chatter: I told my boots we are rich now. They laughed first. (and yes, t"
       ],
       "romantic_memory": "once loved deeply",
       "bond_bias": {
@@ -1718,14 +1718,10 @@
         "Shepherd Nils": 1.0,
         "Lord Percival": -0.32700000000000007
       },
-      "last_mood": 0.3692550089227188,
-      "last_trust": 0.0,
-      "last_topic": "affection",
+      "last_mood": 0.8327838236544388,
+      "last_trust": 0.5,
+      "last_topic": "deep",
       "life_events": [
-        "overheard sadness chatter: my friend, You should not have to carry it alone.",
-        "overheard sadness chatter: my friend, I noticed. The village has been heavy lately.",
-        "overheard sadness chatter: truth be told, Then we remember it for each other.",
-        "overheard lie chatter: my friend, I never touched the ledger, and that is what I will s",
         "overheard lie chatter: You are gambling on a dangerous lie.",
         "overheard news chatter: That is important. I will pass it along.",
         "overheard news chatter: That is important. I will pass it along.",
@@ -1741,7 +1737,11 @@
         "overheard sadness chatter: my friend, Some nights I fear this place is forgetting kindness.",
         "overheard lie chatter: my friend, I will say the missing silver was counted wrong.",
         "overheard deep chatter: If fear rules us, we become strangers to ourselves.",
-        "overheard news chatter: That is important. I will pass it along."
+        "overheard news chatter: That is important. I will pass it along.",
+        "overheard deep chatter: mark me, My heavyship lately is overheard lie chatter: Your stor",
+        "heard rumor: Market talk says grain and trust rise or fall together this season.",
+        "overheard news chatter: I heard this: People whisper that leaders may push for a safe fa",
+        "overheard humor chatter: I told my boots we are rich now. They laughed first. (and yes, t"
       ],
       "voice_style": "streetwise",
       "humor_style": "deadpan",
@@ -1804,11 +1804,10 @@
         "Lord Percival": 0.125,
         "Guard Helena": -0.041999999999999996
       },
-      "last_mood": 0.41439886637536494,
-      "last_trust": 0.0,
+      "last_mood": 0.7435186092446208,
+      "last_trust": 0.5,
       "last_topic": "deep",
       "life_events": [
-        "overheard sadness chatter: my friend, Then we remember it for each other.",
         "overheard affection chatter: my friend, Then let us protect what we love, not lose it to fear",
         "overheard news chatter: I am not sure I believe that rumor.",
         "overheard news chatter: I heard this: Rumor says heard rumor: People whisper that leader",
@@ -1827,7 +1826,8 @@
         "overheard news chatter: That is important. I will pass it along.",
         "overheard news chatter: I heard this: News from labourer circles: overheard sadness chat",
         "overheard news chatter: That is important. I will pass it along.",
-        "overheard sadness chatter: my friend, You should not have to carry it alone."
+        "overheard sadness chatter: my friend, You should not have to carry it alone.",
+        "overheard news chatter: That is important. I will pass it along."
       ],
       "voice_style": "streetwise",
       "humor_style": "sarcastic",
@@ -1864,7 +1864,6 @@
         "fair wages"
       ],
       "experiences": [
-        "overheard deep chatter: my friend, Do you ever think our desires are too small? I just w",
         "overheard affection chatter: My desire is simple now: land of their own. Maybe with you besid",
         "overheard news chatter: I heard this: People whisper that leaders may push for land of t",
         "overheard news chatter: That is important. I will pass it along.",
@@ -1873,7 +1872,8 @@
         "overheard affection chatter: I know. We keep each other steady through this life.",
         "heard rumor: Market talk says grain and trust rise or fall together this season.",
         "overheard deep chatter: well, My strongship lately is overheard sadness chatter: truth b",
-        "overheard affection chatter: That choice is rarer than gold in this world."
+        "overheard affection chatter: That choice is rarer than gold in this world.",
+        "overheard news chatter: I heard this: Market talk says grain and trust rise or fall toge"
       ],
       "romantic_memory": "once loved deeply",
       "bond_bias": {
@@ -1893,12 +1893,10 @@
         "King Aldric": 0.010000000000000193,
         "Queen Seraphina": -0.0019999999999998595
       },
-      "last_mood": 0.2657586354097168,
-      "last_trust": 0.0,
-      "last_topic": "sadness",
+      "last_mood": 0.7239530125555013,
+      "last_trust": 0.5,
+      "last_topic": "affection",
       "life_events": [
-        "Raiders stole village treasure and left deep fear",
-        "overheard lie chatter: I will say the missing silver was counted wrong. Builder keeps s",
         "overheard news chatter: That is important. I will pass it along.",
         "overheard sadness chatter: Some nights I fear this place is forgetting kindness. Builder ke",
         "overheard sadness chatter: truth be told, Then we remember it for each other.",
@@ -1916,7 +1914,9 @@
         "overheard deep chatter: well, My strongship lately is overheard sadness chatter: truth b",
         "overheard news chatter: That is important. I will pass it along.",
         "overheard affection chatter: That choice is rarer than gold in this world.",
-        "overheard lie chatter: Then keep your nerves steady or we both fall."
+        "overheard lie chatter: Then keep your nerves steady or we both fall.",
+        "overheard news chatter: I heard this: Market talk says grain and trust rise or fall toge",
+        "overheard news chatter: That is important. I will pass it along."
       ],
       "voice_style": "poetic",
       "humor_style": "dark",
@@ -1937,7 +1937,6 @@
     "Field Hand Ivy": {
       "npc_class": "Labourer",
       "hardships": [
-        "overheard lie chatter: Your story is thin. Keep it consistent.",
         "overheard lie chatter: my friend, Then keep your nerves steady or we both fall.",
         "overheard lie chatter: That is a lie, but it might keep you out of jail.",
         "overheard sadness chatter: I noticed. The village has been heavy lately.",
@@ -1946,7 +1945,8 @@
         "overheard sadness chatter: truth be told, You should not have to carry it alone. Widow keep",
         "overheard lie chatter: If the watch asks, tell them I worked beside you, Shepherd Nils.",
         "heard rumor: Rumor says overheard sadness chatter: I noticed. The village has been ",
-        "heard rumor: News from labourer circles: overheard sadness chatter: my friend, I am"
+        "heard rumor: News from labourer circles: overheard sadness chatter: my friend, I am",
+        "heard rumor: People whisper that leaders may push for a safe family before next wee"
       ],
       "desires": [
         "rest and dignity",
@@ -1970,18 +1970,17 @@
         "Farmer Giles": 1.0,
         "Young Felix": 1.0,
         "Milkmaid Rosa": 1.0,
-        "Beggar Tom": 0.992,
+        "Beggar Tom": 1.0,
         "Old Marta": 1.0,
         "Widow Greta": 0.952,
         "Hauler Bron": 1.0,
         "Worker Amos": 1.0,
         "Shepherd Nils": 1.0
       },
-      "last_mood": 0.30733461804195233,
-      "last_trust": 0.0,
+      "last_mood": 0.766092382215258,
+      "last_trust": 0.5,
       "last_topic": "affection",
       "life_events": [
-        "overheard lie chatter: That is a lie, but it might keep you out of jail.",
         "overheard sadness chatter: I noticed. The village has been heavy lately.",
         "overheard affection chatter: my friend, And your honesty keeps me brave.",
         "overheard sadness chatter: Some nights I fear this place is forgetting kindness. Builder ke",
@@ -2000,7 +1999,8 @@
         "overheard news chatter: I am not sure I believe that rumor.",
         "overheard deep chatter: my friend, well, Then courage is choosing decency anyway.",
         "overheard lie chatter: my friend, Then keep your nerves steady or we both fall.",
-        "heard rumor: News from labourer circles: overheard sadness chatter: my friend, I am"
+        "heard rumor: News from labourer circles: overheard sadness chatter: my friend, I am",
+        "heard rumor: People whisper that leaders may push for a safe family before next wee"
       ],
       "voice_style": "reflective",
       "humor_style": "dry",
@@ -2037,7 +2037,6 @@
         "land of their own"
       ],
       "experiences": [
-        "overheard news chatter: I heard this: News from peasant circles: Raiders stole village t",
         "overheard news chatter: I heard this: People whisper that leaders may push for a better ",
         "overheard deep chatter: My propership lately is overheard lie chatter: If they ask about",
         "overheard affection chatter: After all our struggles, I still carry this: once loved deeply.",
@@ -2046,7 +2045,8 @@
         "overheard news chatter: I heard this: Rumor says Raiders stole village treasure and left",
         "overheard affection chatter: I know. We keep each other steady through this life.",
         "overheard affection chatter: Even after heard rumor: Rumor says overheard sadness chatter: I ",
-        "overheard affection chatter: my friend, When the village feels cruel, your voice feels like h"
+        "overheard affection chatter: my friend, When the village feels cruel, your voice feels like h",
+        "overheard news chatter: That is important. I will pass it along."
       ],
       "romantic_memory": "protective of loved ones",
       "bond_bias": {
@@ -2061,11 +2061,10 @@
         "Builder Petra": 0.955,
         "Hauler Bron": 1.0
       },
-      "last_mood": 0.30786962512435884,
-      "last_trust": 0.0,
-      "last_topic": "deep",
+      "last_mood": 0.8151520103709189,
+      "last_trust": 0.5,
+      "last_topic": "humor",
       "life_events": [
-        "Raiders looted treasure from castle",
         "Raiders looted treasure from castle",
         "Raiders looted treasure from noble_house_w2",
         "Raiders looted treasure from noble_house_e2",
@@ -2084,7 +2083,8 @@
         "overheard affection chatter: Even after heard rumor: Rumor says overheard sadness chatter: I ",
         "overheard affection chatter: my friend, When the village feels cruel, your voice feels like h",
         "overheard news chatter: I heard this: People whisper that leaders may push for a safe fa",
-        "overheard lie chatter: I will say the missing silver was counted wrong."
+        "overheard lie chatter: I will say the missing silver was counted wrong.",
+        "overheard news chatter: That is important. I will pass it along."
       ],
       "voice_style": "poetic",
       "humor_style": "playful",
@@ -2145,8 +2145,8 @@
         "Milkmaid Rosa": 1.0,
         "Widow Greta": 1.0
       },
-      "last_mood": 0.39242743920529455,
-      "last_trust": 0.0,
+      "last_mood": 0.8821909354126594,
+      "last_trust": 0.5,
       "last_topic": "sadness",
       "life_events": [
         "felt extorted by collector Captain Gareth",
@@ -2220,7 +2220,7 @@
       "bond_bias": {
         "Milkmaid Rosa": 1.0,
         "Builder Petra": 1.0,
-        "Beggar Tom": 0.97,
+        "Beggar Tom": 1.0,
         "Farmer Giles": 1.0,
         "Young Felix": 1.0,
         "Field Hand Ivy": 0.952,
@@ -2230,9 +2230,9 @@
         "Worker Amos": 1.0,
         "Captain Gareth": 0.076
       },
-      "last_mood": 0.37917681230142514,
-      "last_trust": 0.0,
-      "last_topic": "sadness",
+      "last_mood": 0.8407233884220771,
+      "last_trust": 0.5,
+      "last_topic": "affection",
       "life_events": [
         "overheard deep chatter: I remember when I overheard deep chatter: Last time we strayed t",
         "overheard affection chatter: After all our struggles, I still carry this: protective of loved",
@@ -2290,37 +2290,34 @@
         "stable bread supply"
       ],
       "experiences": [
-        "overheard deep chatter: Honestly? land of their own. Nothing grand, just real.",
-        "heard rumor: People whisper that leaders may push for a better house before next we",
-        "overheard deep chatter: my friend, between us, That memory is why people trust you now.",
         "overheard affection chatter: My desire is simple now: fair wages. Maybe with you beside me.",
         "overheard affection chatter: my friend, That choice is rarer than gold in this world.",
         "overheard affection chatter: Then let us protect what we love, not lose it to fear.",
         "overheard deep chatter: If fear rules us, we become strangers to ourselves.",
         "overheard news chatter: I heard this: Travelers claim night patrol routes changed after ",
         "overheard news chatter: That is important. I will pass it along.",
-        "overheard news chatter: I am not sure I believe that rumor."
+        "overheard news chatter: I am not sure I believe that rumor.",
+        "overheard deep chatter: Your resilience matters more than rank.",
+        "overheard deep chatter: Do you ever think our desires are too small? I just want rest an",
+        "overheard deep chatter: my friend, Small desires keep people human."
       ],
       "romantic_memory": "once loved deeply",
       "bond_bias": {
         "Milkmaid Rosa": 1.0,
         "Shepherd Nils": 1.0,
         "Builder Petra": 1.0,
-        "Field Hand Ivy": 0.992,
+        "Field Hand Ivy": 1.0,
         "Young Felix": 1.0,
-        "Widow Greta": 0.97,
+        "Widow Greta": 1.0,
         "Farmer Giles": 1.0,
         "Old Marta": 1.0,
         "Worker Amos": 1.0,
         "Hauler Bron": 1.0
       },
-      "last_mood": 0.3619735327693411,
-      "last_trust": 0.0,
-      "last_topic": "sadness",
+      "last_mood": 0.90874215314273,
+      "last_trust": 0.5,
+      "last_topic": "affection",
       "life_events": [
-        "overheard deep chatter: Honestly? land of their own. Nothing grand, just real.",
-        "overheard lie chatter: I will say the missing silver was counted wrong.",
-        "overheard lie chatter: That is a lie, but it might keep you out of jail.",
         "overheard news chatter: That is important. I will pass it along.",
         "heard rumor: Market talk says grain and trust rise or fall together this season.",
         "overheard lie chatter: Your story is thin. Keep it consistent.",
@@ -2337,7 +2334,10 @@
         "overheard news chatter: That is important. I will pass it along.",
         "overheard lie chatter: Your story is thin. Keep it consistent.",
         "overheard news chatter: That is important. I will pass it along.",
-        "overheard news chatter: I am not sure I believe that rumor."
+        "overheard news chatter: I am not sure I believe that rumor.",
+        "overheard deep chatter: Your resilience matters more than rank.",
+        "overheard deep chatter: Do you ever think our desires are too small? I just want rest an",
+        "overheard deep chatter: my friend, Small desires keep people human."
       ],
       "voice_style": "wry",
       "humor_style": "playful",
@@ -2398,8 +2398,8 @@
         "Worker Amos": 1.0,
         "Hauler Bron": 1.0
       },
-      "last_mood": 0.39238605283010763,
-      "last_trust": 0.0,
+      "last_mood": 0.779964309107666,
+      "last_trust": 0.5,
       "last_topic": "sadness",
       "life_events": [
         "overheard news chatter: I heard this: Market talk says grain and trust rise or fall toge",
@@ -2483,8 +2483,8 @@
         "Farmer Giles": 1.0,
         "Guard Helena": -0.044
       },
-      "last_mood": 0.45175764462087387,
-      "last_trust": 0.0,
+      "last_mood": 0.6552561609605729,
+      "last_trust": 0.5,
       "last_topic": "sadness",
       "life_events": [
         "heard rumor: Market talk says grain and trust rise or fall together this season.",
@@ -2642,20 +2642,6 @@
     ],
     "Captain Gareth|King Aldric": [
       {
-        "tone": "humor",
-        "speaker_a": "King Aldric",
-        "line_a": "At least jokes are cheaper than medicine. (and yes, that was a joke)",
-        "speaker_b": "Captain Gareth",
-        "line_b": "my friend, Strange laugh, but true. laughter feeds the soul when bread is late."
-      },
-      {
-        "tone": "affection",
-        "speaker_a": "King Aldric",
-        "line_a": "My desire is simple now: lasting peace. Maybe with you beside me.",
-        "speaker_b": "Captain Gareth",
-        "line_b": "my friend, I know. We keep each other steady through this life."
-      },
-      {
         "tone": "affection",
         "speaker_a": "King Aldric",
         "line_a": "After all our struggles, I still carry this: protective of loved ones.",
@@ -2752,6 +2738,20 @@
         "line_a": "look, The raid changed people. I hear fear in every market voice.",
         "speaker_b": "Captain Gareth",
         "line_b": "my friend, Fear can patienten us, or teach us to protect each other better."
+      },
+      {
+        "tone": "deep",
+        "speaker_a": "King Aldric",
+        "line_a": "look, The raid changed people. I hear fear in every market voice.",
+        "speaker_b": "Captain Gareth",
+        "line_b": "my friend, Fear can patienten us, or teach us to protect each other better."
+      },
+      {
+        "tone": "affection",
+        "speaker_a": "King Aldric",
+        "line_a": "When the village feels cruel, your voice feels like home.",
+        "speaker_b": "Captain Gareth",
+        "line_b": "my friend, And your honesty keeps me brave."
       }
     ],
     "King Aldric|Knight Rowan": [
@@ -3896,20 +3896,6 @@
     ],
     "Builder Petra|Field Hand Ivy": [
       {
-        "tone": "deep",
-        "speaker_a": "Builder Petra",
-        "line_a": "Do you ever think our desires are too small? I just want rest and dignity.",
-        "speaker_b": "Field Hand Ivy",
-        "line_b": "my friend, Small desires keep people human."
-      },
-      {
-        "tone": "humor",
-        "speaker_a": "Builder Petra",
-        "line_a": "well, I am so poor, even my shadow clocks out at noon.",
-        "speaker_b": "Field Hand Ivy",
-        "line_b": "my friend, between us, Ha! That one was better than court poetry."
-      },
-      {
         "tone": "humor",
         "speaker_a": "Builder Petra",
         "line_a": "well, I told my boots we are rich now. They laughed first. Builder keeps saying: steady now (61).",
@@ -4006,6 +3992,20 @@
         "line_a": "My desire is simple now: fair wages. Maybe with you beside me.",
         "speaker_b": "Field Hand Ivy",
         "line_b": "my friend, I know. We keep each other steady through this life."
+      },
+      {
+        "tone": "deep",
+        "speaker_a": "Builder Petra",
+        "line_a": "well, I remember when I overheard affection chatter: my friend, Then let us protect what we love, not lose it to fear. It changed me.",
+        "speaker_b": "Field Hand Ivy",
+        "line_b": "my friend, between us, That memory is why people trust you now."
+      },
+      {
+        "tone": "deep",
+        "speaker_a": "Builder Petra",
+        "line_a": "Do you ever think our desires are too small? I just want rest and dignity.",
+        "speaker_b": "Field Hand Ivy",
+        "line_b": "my friend, Small desires keep people human."
       }
     ],
     "Farmer Giles|Field Hand Ivy": [
@@ -4352,20 +4352,6 @@
     ],
     "Guard Helena|King Aldric": [
       {
-        "tone": "affection",
-        "speaker_a": "King Aldric",
-        "line_a": "Even after overheard lie chatter: Your story is thin. Keep it consistent., I still choose tenderness with you. King keeps saying: steady now (99).",
-        "speaker_b": "Guard Helena",
-        "line_b": "That choice is rarer than gold in this world. Guard keeps saying: steady now (85)."
-      },
-      {
-        "tone": "lie",
-        "speaker_a": "King Aldric",
-        "line_a": "I never touched the ledger, and that is what I will swear.",
-        "speaker_b": "Guard Helena",
-        "line_b": "You are gambling on a dangerous lie."
-      },
-      {
         "tone": "lie",
         "speaker_a": "King Aldric",
         "line_a": "If they ask about overheard lie chatter: I will say the missing silver was counted wrong., we tell the same version.",
@@ -4462,6 +4448,20 @@
         "line_a": "I will say the missing silver was counted wrong.",
         "speaker_b": "Guard Helena",
         "line_b": "Your story is thin. Keep it consistent. Guard keeps saying: steady now (85)."
+      },
+      {
+        "tone": "affection",
+        "speaker_a": "King Aldric",
+        "line_a": "When the village feels cruel, your voice feels like home.",
+        "speaker_b": "Guard Helena",
+        "line_b": "And your honesty keeps me brave."
+      },
+      {
+        "tone": "affection",
+        "speaker_a": "King Aldric",
+        "line_a": "Even after Raiders stole village treasure and left deep fear, I still choose tenderness with you.",
+        "speaker_b": "Guard Helena",
+        "line_b": "That choice is rarer than gold in this world. Guard keeps saying: steady now (85)."
       }
     ],
     "Guard Helena|Queen Seraphina": [
@@ -4580,20 +4580,6 @@
     ],
     "Captain Gareth|Guard Helena": [
       {
-        "tone": "lie",
-        "speaker_a": "Captain Gareth",
-        "line_a": "my friend, I will say the missing silver was counted wrong.",
-        "speaker_b": "Guard Helena",
-        "line_b": "Your story is thin. Keep it consistent. Guard keeps saying: steady now (85)."
-      },
-      {
-        "tone": "affection",
-        "speaker_a": "Captain Gareth",
-        "line_a": "my friend, After all our struggles, I still carry this: protective of loved ones.",
-        "speaker_b": "Guard Helena",
-        "line_b": "Then let us protect what we love, not lose it to fear."
-      },
-      {
         "tone": "sadness",
         "speaker_a": "Captain Gareth",
         "line_a": "my friend, I am tired of carrying overheard sadness chatter: I am tired of carrying heard rumor: News from elite circles: ove like it is normal.",
@@ -4690,6 +4676,20 @@
         "line_a": "my friend, Some nights I fear this place is forgetting kindness.",
         "speaker_b": "Guard Helena",
         "line_b": "listen, Then we remember it for each other."
+      },
+      {
+        "tone": "affection",
+        "speaker_a": "Captain Gareth",
+        "line_a": "my friend, My desire is simple now: loyal troops. Maybe with you beside me.",
+        "speaker_b": "Guard Helena",
+        "line_b": "I know. We keep each other steady through this life."
+      },
+      {
+        "tone": "deep",
+        "speaker_a": "Captain Gareth",
+        "line_a": "my friend, If fear rules us, we become strangers to ourselves.",
+        "speaker_b": "Guard Helena",
+        "line_b": "Then courage is choosing decency anyway."
       }
     ],
     "Guard Helena|Knight Rowan": [
@@ -6825,13 +6825,6 @@
     ],
     "Beggar Tom|Field Hand Ivy": [
       {
-        "tone": "deep",
-        "speaker_a": "Field Hand Ivy",
-        "line_a": "my friend, I remember when I overheard humor chatter: my friend, Ha! That one was better than court poetry. (and yes, . It changed me.",
-        "speaker_b": "Beggar Tom",
-        "line_b": "my friend, That memory is why people trust you now."
-      },
-      {
         "tone": "sadness",
         "speaker_a": "Field Hand Ivy",
         "line_a": "my friend, Some nights I fear this place is forgetting kindness.",
@@ -6928,6 +6921,13 @@
         "line_a": "my friend, If fear rules us, we become strangers to ourselves.",
         "speaker_b": "Beggar Tom",
         "line_b": "my friend, Then courage is choosing decency anyway."
+      },
+      {
+        "tone": "affection",
+        "speaker_a": "Field Hand Ivy",
+        "line_a": "my friend, When the village feels cruel, your voice feels like home.",
+        "speaker_b": "Beggar Tom",
+        "line_b": "my friend, And your honesty keeps me brave."
       },
       {
         "tone": "affection",
@@ -8307,13 +8307,6 @@
     ],
     "Beggar Tom|Widow Greta": [
       {
-        "tone": "sadness",
-        "speaker_a": "Widow Greta",
-        "line_a": "truth be told, After overheard affection chatter: my friend, After all our struggles, I still carry this: once lov, I smile less than I used to.",
-        "speaker_b": "Beggar Tom",
-        "line_b": "my friend, I noticed. The village has been heavy lately."
-      },
-      {
         "tone": "affection",
         "speaker_a": "Widow Greta",
         "line_a": "My desire is simple now: stable bread supply. Maybe with you beside me.",
@@ -8417,6 +8410,13 @@
         "line_a": "I never touched the ledger, and that is what I will swear.",
         "speaker_b": "Beggar Tom",
         "line_b": "my friend, You are gambling on a dangerous lie."
+      },
+      {
+        "tone": "affection",
+        "speaker_a": "Widow Greta",
+        "line_a": "Even after heard rumor: Rumor says heard rumor: Rumor says Raiders stole village treasure and , I still choose tenderness with you.",
+        "speaker_b": "Beggar Tom",
+        "line_b": "my friend, That choice is rarer than gold in this world."
       }
     ],
     "Farmer Giles|Widow Greta": [
@@ -8763,13 +8763,6 @@
     ],
     "Beggar Tom|Old Marta": [
       {
-        "tone": "lie",
-        "speaker_a": "Old Marta",
-        "line_a": "I never touched the ledger, and that is what I will swear.",
-        "speaker_b": "Beggar Tom",
-        "line_b": "my friend, You are gambling on a dangerous lie."
-      },
-      {
         "tone": "deep",
         "speaker_a": "Old Marta",
         "line_a": "If fear rules us, we become strangers to ourselves. Old keeps saying: steady now (76).",
@@ -8873,6 +8866,13 @@
         "line_a": "When the village feels cruel, your voice feels like home. Old keeps saying: steady now (76).",
         "speaker_b": "Beggar Tom",
         "line_b": "my friend, And your honesty keeps me brave."
+      },
+      {
+        "tone": "humor",
+        "speaker_a": "Old Marta",
+        "line_a": "I told my boots we are rich now. They laughed first. (and yes, that was a joke)",
+        "speaker_b": "Beggar Tom",
+        "line_b": "my friend, Ha! Fair joke. Keep that spirit. (and yes, that was a joke)"
       }
     ],
     "Widow Greta|Young Felix": [
@@ -9221,20 +9221,6 @@
       {
         "tone": "affection",
         "speaker_a": "Old Marta",
-        "line_a": "After all our struggles, I still carry this: protective of loved ones.",
-        "speaker_b": "Widow Greta",
-        "line_b": "Then let us protect what we love, not lose it to fear."
-      },
-      {
-        "tone": "deep",
-        "speaker_a": "Old Marta",
-        "line_a": "mark me, I remember when I overheard news chatter: That is important. I will pass it along.. It changed me.",
-        "speaker_b": "Widow Greta",
-        "line_b": "truth be told, That memory is why people trust you now."
-      },
-      {
-        "tone": "affection",
-        "speaker_a": "Old Marta",
         "line_a": "My desire is simple now: stable bread supply. Maybe with you beside me.",
         "speaker_b": "Widow Greta",
         "line_b": "I know. We keep each other steady through this life."
@@ -9329,6 +9315,20 @@
         "line_a": "mark me, Coin feels tighter every week. Even kind people snap sooner.",
         "speaker_b": "Widow Greta",
         "line_b": "Then we share what we can, before bitterness becomes normal."
+      },
+      {
+        "tone": "deep",
+        "speaker_a": "Old Marta",
+        "line_a": "mark me, My heavyship lately is overheard lie chatter: Your story is thin. Keep it consistent., and I still keep going. Old keeps saying: steady now (76).",
+        "speaker_b": "Widow Greta",
+        "line_b": "Your resilience matters more than rank."
+      },
+      {
+        "tone": "affection",
+        "speaker_a": "Old Marta",
+        "line_a": "When the village feels cruel, your voice feels like home. Old keeps saying: steady now (76).",
+        "speaker_b": "Widow Greta",
+        "line_b": "And your honesty keeps me brave."
       }
     ],
     "Shopkeep Boris|Wanderer Kai": [
@@ -9675,20 +9675,6 @@
     ],
     "Pilgrim Yara|Trader Elara": [
       {
-        "tone": "sadness",
-        "speaker_a": "Trader Elara",
-        "line_a": "After overheard sadness chatter: my friend, between us, You should not have to carry it alone., I smile less than I used to.",
-        "speaker_b": "Pilgrim Yara",
-        "line_b": "honestly, I noticed. The village has been heavy lately. Pilgrim keeps saying: steady now (96)."
-      },
-      {
-        "tone": "lie",
-        "speaker_a": "Trader Elara",
-        "line_a": "I never touched the ledger, and that is what I will swear.",
-        "speaker_b": "Pilgrim Yara",
-        "line_b": "You are gambling on a dangerous lie."
-      },
-      {
         "tone": "deep",
         "speaker_a": "Trader Elara",
         "line_a": "listen, I remember when I overheard deep chatter: Your resilience matters more than rank.. It changed me.",
@@ -9785,6 +9771,20 @@
         "line_a": "Do you ever think our desires are too small? I just want trusted partners.",
         "speaker_b": "Pilgrim Yara",
         "line_b": "Small desires keep people human."
+      },
+      {
+        "tone": "deep",
+        "speaker_a": "Trader Elara",
+        "line_a": "The raid changed people. I hear fear in every market voice.",
+        "speaker_b": "Pilgrim Yara",
+        "line_b": "Fear can harden us, or teach us to protect each other better."
+      },
+      {
+        "tone": "affection",
+        "speaker_a": "Trader Elara",
+        "line_a": "Even after overheard lie chatter: If they ask about Raiders looted treasure from noble_house_e2, w, I still choose tenderness with you.",
+        "speaker_b": "Pilgrim Yara",
+        "line_b": "That choice is rarer than gold in this world."
       }
     ],
     "Pilgrim Yara|Shopkeep Boris": [
@@ -9903,20 +9903,6 @@
     ],
     "Builder Petra|Hauler Bron": [
       {
-        "tone": "affection",
-        "speaker_a": "Builder Petra",
-        "line_a": "Even after heard rumor: News from labourer circles: overheard deep chatter: between us, Honest, I still choose tenderness with you.",
-        "speaker_b": "Hauler Bron",
-        "line_b": "That choice is rarer than gold in this world."
-      },
-      {
-        "tone": "affection",
-        "speaker_a": "Builder Petra",
-        "line_a": "After all our struggles, I still carry this: once loved deeply.",
-        "speaker_b": "Hauler Bron",
-        "line_b": "Then let us protect what we love, not lose it to fear."
-      },
-      {
         "tone": "humor",
         "speaker_a": "Builder Petra",
         "line_a": "well, I told my boots we are rich now. They laughed first. Builder keeps saying: steady now (61).",
@@ -10013,6 +9999,20 @@
         "line_a": "well, The raid changed people. I hear fear in every market voice.",
         "speaker_b": "Hauler Bron",
         "line_b": "Fear can heavyen us, or teach us to protect each other better."
+      },
+      {
+        "tone": "deep",
+        "speaker_a": "Builder Petra",
+        "line_a": "After heard rumor: People whisper that leaders may push for a safe family before next wee, what do you even hope for now?",
+        "speaker_b": "Hauler Bron",
+        "line_b": "Honestly? fair wages. Nothing grand, just real."
+      },
+      {
+        "tone": "deep",
+        "speaker_a": "Builder Petra",
+        "line_a": "Do you ever think our desires are too small? I just want fair wages.",
+        "speaker_b": "Hauler Bron",
+        "line_b": "Small desires keep people human."
       }
     ],
     "Explorer Thane|Shopkeep Boris": [
@@ -10359,20 +10359,6 @@
     ],
     "Field Hand Ivy|Hauler Bron": [
       {
-        "tone": "lie",
-        "speaker_a": "Hauler Bron",
-        "line_a": "If they ask about heard rumor: News from labourer circles: overheard news chatter: I heard this: Trav, we tell the same version.",
-        "speaker_b": "Field Hand Ivy",
-        "line_b": "my friend, Then keep your nerves steady or we both fall."
-      },
-      {
-        "tone": "deep",
-        "speaker_a": "Hauler Bron",
-        "line_a": "look, You carry Raiders looted treasure from castle quietly. Does anyone really see it?",
-        "speaker_b": "Field Hand Ivy",
-        "line_b": "my friend, Maybe not, but I do. That should count for something."
-      },
-      {
         "tone": "humor",
         "speaker_a": "Hauler Bron",
         "line_a": "Strange laugh, but i told my boots we are rich now. they laughed first.",
@@ -10469,6 +10455,20 @@
         "line_a": "Strange laugh, but my purse is so light, the wind taxed it again.",
         "speaker_b": "Field Hand Ivy",
         "line_b": "my friend, between us, Ha, true enough. You have sharp wit."
+      },
+      {
+        "tone": "affection",
+        "speaker_a": "Hauler Bron",
+        "line_a": "After all our struggles, I still carry this: once loved deeply.",
+        "speaker_b": "Field Hand Ivy",
+        "line_b": "my friend, Then let us protect what we love, not lose it to fear."
+      },
+      {
+        "tone": "affection",
+        "speaker_a": "Hauler Bron",
+        "line_a": "When the village feels cruel, your voice feels like home.",
+        "speaker_b": "Field Hand Ivy",
+        "line_b": "my friend, And your honesty keeps me brave. Field keeps saying: steady now (43)."
       }
     ],
     "Builder Petra|Old Marta": [
@@ -12213,20 +12213,6 @@
     ],
     "Explorer Thane|Vendor Mirela": [
       {
-        "tone": "sadness",
-        "speaker_a": "Vendor Mirela",
-        "line_a": "my friend, Some nights I fear this place is forgetting kindness.",
-        "speaker_b": "Explorer Thane",
-        "line_b": "my friend, Then we remember it for each other."
-      },
-      {
-        "tone": "sadness",
-        "speaker_a": "Vendor Mirela",
-        "line_a": "my friend, I am tired of carrying overheard sadness chatter: I am tired of carrying overheard sadness chatter: I am tired of  like it is normal.",
-        "speaker_b": "Explorer Thane",
-        "line_b": "my friend, You should not have to carry it alone."
-      },
-      {
         "tone": "affection",
         "speaker_a": "Vendor Mirela",
         "line_a": "my friend, My desire is simple now: secure trade roads. Maybe with you beside me. Vendor keeps saying: steady now (81).",
@@ -12323,6 +12309,20 @@
         "line_a": "my friend, Some nights I fear this place is forgetting kindness.",
         "speaker_b": "Explorer Thane",
         "line_b": "my friend, Then we remember it for each other."
+      },
+      {
+        "tone": "humor",
+        "speaker_a": "Vendor Mirela",
+        "line_a": "my friend, between us, If stress were coin, we would all be royalty.",
+        "speaker_b": "Explorer Thane",
+        "line_b": "my friend, mark me, Ha, then the treasury would finally love us."
+      },
+      {
+        "tone": "deep",
+        "speaker_a": "Vendor Mirela",
+        "line_a": "my friend, between us, My hardship lately is overheard sadness chatter: Some nights I fear this place is forgetting kindness., and I still keep going. Vendor keeps saying: steady now (81).",
+        "speaker_b": "Explorer Thane",
+        "line_b": "my friend, Your resilience matters more than rank. Explorer keeps saying: steady now (50)."
       }
     ],
     "Widow Greta|Worker Amos": [
@@ -12783,13 +12783,6 @@
     ],
     "Beggar Tom|Hauler Bron": [
       {
-        "tone": "deep",
-        "speaker_a": "Hauler Bron",
-        "line_a": "My propership lately is overheard lie chatter: If they ask about overheard affection chatter: my friend, And yo, and I still keep going.",
-        "speaker_b": "Beggar Tom",
-        "line_b": "my friend, Your resilience matters more than rank."
-      },
-      {
         "tone": "affection",
         "speaker_a": "Hauler Bron",
         "line_a": "After all our struggles, I still carry this: once loved deeply.",
@@ -12893,6 +12886,13 @@
         "line_a": "look, After Raiders looted treasure from noble_house_e2, I smile less than I used to.",
         "speaker_b": "Beggar Tom",
         "line_b": "my friend, I noticed. The village has been heavy lately."
+      },
+      {
+        "tone": "deep",
+        "speaker_a": "Hauler Bron",
+        "line_a": "If fear rules us, we become strangers to ourselves.",
+        "speaker_b": "Beggar Tom",
+        "line_b": "my friend, Then courage is choosing decency anyway."
       }
     ],
     "Hauler Bron|Milkmaid Rosa": [
