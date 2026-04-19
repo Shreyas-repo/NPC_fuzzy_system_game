@@ -1,0 +1,1813 @@
+{
+  "records": [
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "tell me a joke",
+      "npc_response": "One must keep up appearances. How may I help you? Understood. We can work this out.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.6239600569735178,
+      "npc_trust": 0.3882328464640113,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "no",
+      "npc_response": "One must keep up appearances. How may I help you? Understood.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.5870663908540071,
+      "npc_trust": 0.3828332078124671,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "what are u taking about?",
+      "npc_response": "Ah, a visitor. The social calendar is rather full today. I hear you. We can work this out.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.5567976787193009,
+      "npc_trust": 0.3735390134348996,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Knight Rowan",
+      "npc_class": "Elite",
+      "player_message": "whoa wree are u going?",
+      "npc_response": "Stay alert. These are uncertain times. Hmm, go on. We can work this out.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.5763314339431286,
+      "npc_trust": 0.2584163919605713,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Knight Rowan",
+      "npc_class": "Elite",
+      "player_message": "what?",
+      "npc_response": "Stay alert. These are uncertain times. I hear you. We can work this out.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.5636830236179194,
+      "npc_trust": 0.24922368126167838,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Widow Greta",
+      "npc_class": "Peasant",
+      "player_message": "hey",
+      "npc_response": "Have you seen the chickens? They wandered off again... I hear you. We can work this out.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.6307420125500167,
+      "npc_trust": 0.3133157173231712,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Widow Greta",
+      "npc_class": "Peasant",
+      "player_message": "how ur day?",
+      "npc_response": "We don't get many visitors. Welcome to our humble corner. Understood.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.6124069852925466,
+      "npc_trust": 0.2953456857791122,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Widow Greta",
+      "npc_class": "Peasant",
+      "player_message": "how is your day going?",
+      "npc_response": "My day started quietly, but it turned heavy around household needs. By midday, crop health became the bigger problem. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. What worries me most is that household needs and crop health are connected, and one problem keeps feeding the other. How was your own day, really, not just the polite answer?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.6289372893485795,
+      "npc_trust": 0.27723881465813566,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Widow Greta",
+      "npc_class": "Peasant",
+      "player_message": "tell me about yourself",
+      "npc_response": "Have you seen the chickens? They wandered off again... I hear you. Let's keep this civil.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.6567653902431803,
+      "npc_trust": 0.24449877251600535,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Queen Seraphina",
+      "npc_class": "Royal",
+      "player_message": "hello",
+      "npc_response": "We have nothing to say to you. Leave our presence. I hear you. I still do not trust you.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.6137919777303246,
+      "npc_trust": 0.08233144235465308,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "what that",
+      "npc_response": "Since morning, events kept stacking up. estate workers needed attention, and later tax ledgers made things worse. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"listen, I wanted to tell you this: heard rumor: People whisper that leaders may push for i\". What worries me most is that estate workers and tax ledgers are connected, and one problem keeps feeding the other. Village mood can shift fast when trust starts thinning. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7904316569761024,
+      "npc_trust": 0.36373261675353763,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "i hope thing get etter",
+      "npc_response": "A lot happened, actually. First there was trouble around estate workers, then everyone started arguing about family alliances. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"listen, I wanted to tell you this: heard rumor: People whisper that leaders may push for i\". What worries me most is that estate workers and family alliances are connected, and one problem keeps feeding the other. Village mood can shift fast when trust starts thinning. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7581038662462019,
+      "npc_trust": 0.3425148306474061,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "no i m leaving",
+      "npc_response": "A lot happened, actually. First there was trouble around tax ledgers, then everyone started arguing about family alliances. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"Since morning, events kept stacking up. estate workers needed attention, and later tax led\". What worries me most is that tax ledgers and family alliances are connected, and one problem keeps feeding the other. Village mood can shift fast when trust starts thinning. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7539598258972963,
+      "npc_trust": 0.3425148306474061,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "rer",
+      "npc_response": "A lot happened, actually. First there was trouble around estate workers, then everyone started arguing about tax ledgers. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"no i m leaving\". What worries me most is that estate workers and tax ledgers are connected, and one problem keeps feeding the other. Village mood can shift fast when trust starts thinning. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7524927822163913,
+      "npc_trust": 0.3425148306474061,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "re",
+      "npc_response": "My friend and your honesty keeps me brave field keeps saying steady now 61.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.751492487375872,
+      "npc_trust": 0.3425148306474061,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "Work has been nonstop. We handled estate workers, then shifted to tax ledgers without much rest. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"My friend and your honesty keeps me brave field keeps saying steady now 61.\". What worries me most is that estate workers and tax ledgers are connected, and one problem keeps feeding the other. The sequence matters, because each event reshapes the next decision. If you had to fix one part of this work cycle, what would you change first?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7411092092763616,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "Work has been nonstop. We handled family alliances, then shifted to estate workers without much rest. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"re\". What worries me most is that family alliances and estate workers are connected, and one problem keeps feeding the other. The sequence matters, because each event reshapes the next decision. If you had to fix one part of this work cycle, what would you change first?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7440112401961921,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "And your honesty keeps me brave.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.744900807253747,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "Honestly i am not sure i believe that rumor.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.745419472988636,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "The workload today was rough. estate workers drained most of my energy, and tax ledgers is still unresolved. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"Work has been nonstop. We handled estate workers, then shifted to tax ledgers without much\". What worries me most is that estate workers and tax ledgers are connected, and one problem keeps feeding the other. The sequence matters, because each event reshapes the next decision. If you had to fix one part of this work cycle, what would you change first?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7456244163437739,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "Even after raiders stole village treasure and left deep fear is changing how people work.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7456785272775395,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "Maybe not but i do that should count for something.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7456140636052585,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "My friend small desires keep people human.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7453352394439982,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "Since morning, events kept stacking up. family alliances needed attention, and later tax ledgers made things worse. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"The workload today was rough. estate workers drained most of my energy, and tax ledgers is\". What worries me most is that family alliances and tax ledgers are connected, and one problem keeps feeding the other. Work problems are rarely isolated; they become social problems by evening. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7449751725704638,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "A lot happened, actually. First there was trouble around estate workers, then everyone started arguing about tax ledgers. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"e\". What worries me most is that estate workers and tax ledgers are connected, and one problem keeps feeding the other. Work problems are rarely isolated; they become social problems by evening. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7446225774387952,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "Well you carry heard rumor news from elite circles heard rumor news from peasant circles heard rumor trav i still carry this.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7443275193963833,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "Since morning, events kept stacking up. estate workers needed attention, and later tax ledgers made things worse. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"A lot happened, actually. First there was trouble around estate workers, then everyone sta\". What worries me most is that estate workers and tax ledgers are connected, and one problem keeps feeding the other. Work problems are rarely isolated; they become social problems by evening. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7440103627572704,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "That choice is rarer than gold in this world.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7437882236947828,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "The economy keeps shifting. tax ledgers looked stable this morning, but estate workers became expensive by noon. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"e\". What worries me most is that tax ledgers and estate workers are connected, and one problem keeps feeding the other. The sequence matters, because each event reshapes the next decision. If prices keep changing, who suffers first in your view?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7434410153551108,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "People think money is only numbers, but family alliances and estate workers are changing real lives today. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"e\". What worries me most is that family alliances and estate workers are connected, and one problem keeps feeding the other. Small moments in a day carry long consequences. If prices keep changing, who suffers first in your view?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7432012626643337,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "After heard rumor news from traveller circles a sudden raid threatened village homes and treasure like it is normal.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7429556358609074,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "A lot happened, actually. First there was trouble around tax ledgers, then everyone started arguing about estate workers. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"e\". What worries me most is that tax ledgers and estate workers are connected, and one problem keeps feeding the other. Economic pressure quietly changes how kind people can afford to be. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7427206788122794,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "Oh friend my desire is simple now stable succession.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7428712839344285,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "My friend i know we keep each other.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.742929833228141,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "Since morning, events kept stacking up. estate workers needed attention, and later tax ledgers made things worse. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"A lot happened, actually. First there was trouble around tax ledgers, then everyone starte\". What worries me most is that estate workers and tax ledgers are connected, and one problem keeps feeding the other. Economic pressure quietly changes how kind people can afford to be. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7430161707947436,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "Since morning, events kept stacking up. family alliances needed attention, and later estate workers made things worse. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"e\". What worries me most is that family alliances and estate workers are connected, and one problem keeps feeding the other. Economic pressure quietly changes how kind people can afford to be. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7430648404486024,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "Since morning, events kept stacking up. family alliances needed attention, and later tax ledgers made things worse. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"e\". What worries me most is that family alliances and tax ledgers are connected, and one problem keeps feeding the other. Village mood can shift fast when trust starts thinning. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7430751525610834,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "I remember when i heard this travelers claim night patrol routes changed after recent unrest what do you even hope for now.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.743044946492724,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "I heard rumor news from peasant circles heard rumor rumor says heard rumor rumor says heard rumor market talk says grain and.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7429511272306624,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "e",
+      "npc_response": "You can feel the mood in the streets. estate workers is one topic, but family alliances is what people fear next. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"I heard rumor news from peasant circles heard rumor rumor says heard rumor rumor says hear\". What worries me most is that estate workers and family alliances are connected, and one problem keeps feeding the other. The sequence matters, because each event reshapes the next decision. From what you have seen, is the village getting calmer or more fragile?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.7428598886320191,
+      "npc_trust": 0.33546816812279956,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Percival",
+      "npc_class": "Noble",
+      "player_message": "hi how are you ??",
+      "npc_response": "The workload today was rough. family alliances drained most of my energy, and tax ledgers is still unresolved. Even with all this, I am trying to stay hopeful about tomorrow. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"[npc initiated conversation]\". What worries me most is that family alliances and tax ledgers are connected, and one problem keeps feeding the other. Village mood can shift fast when trust starts thinning. If you had to fix one part of this work cycle, what would you change first?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.8358452112216324,
+      "npc_trust": 0.34889580117820823,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Vendor Mirela",
+      "npc_class": "Merchant",
+      "player_message": "hi how are you ?",
+      "npc_response": "Since morning, events kept stacking up. barter disputes needed attention, and later caravan timing made things worse. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. What worries me most is that barter disputes and caravan timing are connected, and one problem keeps feeding the other. Unspoken emotion leaks into every conversation anyway. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.47026346699364513,
+      "npc_trust": 0.26757908319327717,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Vendor Mirela",
+      "npc_class": "Merchant",
+      "player_message": "you are very good at work",
+      "npc_response": "The workload today was rough. grain prices drained most of my energy, and barter disputes is still unresolved. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. What worries me most is that grain prices and barter disputes are connected, and one problem keeps feeding the other. Small moments in a day carry long consequences. If you had to fix one part of this work cycle, what would you change first?",
+      "emotion_vector": {
+        "joy": 0.9099999999999999,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.728,
+        "surprise": 0.33199999999999996,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.9099999999999999,
+      "npc_mood": 0.6331821122867707,
+      "npc_trust": 0.3806646622979988,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Vendor Mirela",
+      "npc_class": "Merchant",
+      "player_message": "can you get me good at low price",
+      "npc_response": "People think money is only numbers, but barter disputes and caravan timing are changing real lives today. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. It reminds me of what you said earlier: \"you are very good at work\". What worries me most is that barter disputes and caravan timing are connected, and one problem keeps feeding the other. Small moments in a day carry long consequences. If prices keep changing, who suffers first in your view?",
+      "emotion_vector": {
+        "joy": 0.35,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.27999999999999997,
+        "surprise": 0.21999999999999997,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.35,
+      "npc_mood": 0.5602765006642404,
+      "npc_trust": 0.23883212754956634,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "grain prices are increasing day by day",
+      "npc_response": "My day started quietly, but it turned heavy around estate workers. By midday, tax ledgers became the bigger problem. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. What worries me most is that estate workers and tax ledgers are connected, and one problem keeps feeding the other. Village mood can shift fast when trust starts thinning. How was your own day, really, not just the polite answer?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.49030401088798115,
+      "npc_trust": 0.0037069266898343304,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "how are you ??",
+      "npc_response": "You can feel the mood in the streets. family alliances is one topic, but tax ledgers is what people fear next. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. It reminds me of what you said earlier: \"listen, I wanted to tell you this: overheard news chatter: That is important. I will pass \". What worries me most is that family alliances and tax ledgers are connected, and one problem keeps feeding the other. Small moments in a day carry long consequences. From what you have seen, is the village getting calmer or more fragile?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.47198282800965463,
+      "npc_trust": 0.0,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Cedric",
+      "npc_class": "Noble",
+      "player_message": "good",
+      "npc_response": "That is important i will say the missing silver was counted wrong.",
+      "emotion_vector": {
+        "joy": 0.7,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.5599999999999999,
+        "surprise": 0.29,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.7,
+      "npc_mood": 0.6082707463474594,
+      "npc_trust": 0.105,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Percival",
+      "npc_class": "Noble",
+      "player_message": "you are very honest",
+      "npc_response": "Work was not one problem, it was a chain of linked problems.",
+      "emotion_vector": {
+        "joy": 0.78,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.6240000000000001,
+        "surprise": 0.30600000000000005,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.78,
+      "npc_mood": 0.6386895213139729,
+      "npc_trust": 0.11699999999999999,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "King Aldric",
+      "npc_class": "Royal",
+      "player_message": "you are very good",
+      "npc_response": "The guards are watching you. I suggest you leave quietly. I like that energy.",
+      "emotion_vector": {
+        "joy": 0.9099999999999999,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.728,
+        "surprise": 0.33199999999999996,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.9099999999999999,
+      "npc_mood": 0.5905864745671066,
+      "npc_trust": 0.13649999999999998,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "King Aldric",
+      "npc_class": "Royal",
+      "player_message": "ok i will leave quietly",
+      "npc_response": "The village feels tense today. People keep talking about food reserves, and I keep hearing concerns about court petitions. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. It reminds me of what you said earlier: \"you are very good\". What worries me most is that food reserves and court petitions are connected, and one problem keeps feeding the other. Small moments in a day carry long consequences. From what you have seen, is the village getting calmer or more fragile?",
+      "emotion_vector": {
+        "joy": 0.25,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.2,
+        "surprise": 0.2,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.25,
+      "npc_mood": 0.4479394880789656,
+      "npc_trust": 0.16553085189272537,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lady Isolde",
+      "npc_class": "Noble",
+      "player_message": "how are you ?\\",
+      "npc_response": "A lot happened, actually. First there was trouble around tax ledgers, then everyone started arguing about family alliances. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. What worries me most is that tax ledgers and family alliances are connected, and one problem keeps feeding the other. Unspoken emotion leaks into every conversation anyway. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.6257270415949578,
+      "npc_trust": 0.25835629299410484,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lady Isolde",
+      "npc_class": "Noble",
+      "player_message": "you are very good",
+      "npc_response": "I will tell it from the beginning so it makes sense.",
+      "emotion_vector": {
+        "joy": 0.9099999999999999,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.728,
+        "surprise": 0.33199999999999996,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.9099999999999999,
+      "npc_mood": 0.7324852611559136,
+      "npc_trust": 0.35924606107455526,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lady Isolde",
+      "npc_class": "Noble",
+      "player_message": "yes why not",
+      "npc_response": "The root cause was poor timing and too many responsibilities colliding at once. It connects to what you mentioned earlier: \"A lot happened, actually. First there was trouble around tax ledgers, then everyone starte\".",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.636410538480145,
+      "npc_trust": 0.34945873532793154,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lady Isolde",
+      "npc_class": "Noble",
+      "player_message": "are you happy?",
+      "npc_response": "The consequence was not just practical damage, it was social tension too.",
+      "emotion_vector": {
+        "joy": 0.8,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.6400000000000001,
+        "surprise": 0.31000000000000005,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.8,
+      "npc_mood": 0.731737825999975,
+      "npc_trust": 0.46300682644520386,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lady Isolde",
+      "npc_class": "Noble",
+      "player_message": "okk",
+      "npc_response": "What matters now is whether people choose repair over pride. Should I keep going into details, or was that enough context?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.6673410187197993,
+      "npc_trust": 0.46300682644520386,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lady Isolde",
+      "npc_class": "Noble",
+      "player_message": "death",
+      "npc_response": "Since morning, events kept stacking up. family alliances needed attention, and later tax ledgers made things worse. I am managing, but it has not been an easy pace. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"A lot happened, actually. First there was trouble around tax ledgers, then everyone starte\". What worries me most is that family alliances and tax ledgers are connected, and one problem keeps feeding the other. Economic pressure quietly changes how kind people can afford to be. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.6553635791195397,
+      "npc_trust": 0.4524906323459002,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lady Isolde",
+      "npc_class": "Noble",
+      "player_message": "i will kill you",
+      "npc_response": "Guards! Seize this criminal at once!",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.7,
+        "fear": 0.3,
+        "sadness": 0.2,
+        "trust": 0.0,
+        "surprise": 0.4,
+        "disgust": 0.35,
+        "curiosity": 0.0
+      },
+      "sentiment_score": -0.9,
+      "npc_mood": 0.30196948681516034,
+      "npc_trust": 0.10749063234590023,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Queen Seraphina",
+      "npc_class": "Royal",
+      "player_message": "how are you ?",
+      "npc_response": "Since morning, events kept stacking up. court petitions needed attention, and later food reserves made things worse. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. What worries me most is that court petitions and food reserves are connected, and one problem keeps feeding the other. Unspoken emotion leaks into every conversation anyway. Do you want the short version, or the full story from the beginning?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.676729308245206,
+      "npc_trust": 0.1217816737905477,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Queen Seraphina",
+      "npc_class": "Royal",
+      "player_message": "happy",
+      "npc_response": "I can function through routine, but border reports and court petitions are still on my mind. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. What worries me most is that border reports and court petitions are connected, and one problem keeps feeding the other. Small moments in a day carry long consequences. When stress builds up, do you face it directly or hide it first?",
+      "emotion_vector": {
+        "joy": 0.8,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.6400000000000001,
+        "surprise": 0.31000000000000005,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.8,
+      "npc_mood": 0.8331440932688373,
+      "npc_trust": 0.2417816737905477,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Queen Seraphina",
+      "npc_class": "Royal",
+      "player_message": "good",
+      "npc_response": "It has been a long day for me. Most of it went into court petitions, and I am still thinking about border reports. Even with all this, I am trying to stay hopeful about tomorrow. I am still cautious with what I share, but I can at least tell you this much. It reminds me of what you said earlier: \"I can function through routine, but border reports and court petitions are still on my min\". What worries me most is that court petitions and border reports are connected, and one problem keeps feeding the other. Unspoken emotion leaks into every conversation anyway. How was your own day, really, not just the polite answer?",
+      "emotion_vector": {
+        "joy": 0.7,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.5599999999999999,
+        "surprise": 0.29,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.7,
+      "npc_mood": 0.8908320147986546,
+      "npc_trust": 0.3467816737905477,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Percival",
+      "npc_class": "Noble",
+      "player_message": "yes",
+      "npc_response": "Our conversation is over. Good day. Understood. You must earn back trust first.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.678509931883349,
+      "npc_trust": 0.1133502500061726,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Percival",
+      "npc_class": "Noble",
+      "player_message": "good day today",
+      "npc_response": "It has been a long day for me. Most of it went into tax ledgers, and I am still thinking about family alliances. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. It reminds me of what you said earlier: \"Our conversation is over. Good day. Understood. You must earn back trust first.\". What worries me most is that tax ledgers and family alliances are connected, and one problem keeps feeding the other. The sequence matters, because each event reshapes the next decision. How was your own day, really, not just the polite answer?",
+      "emotion_vector": {
+        "joy": 0.7,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.5599999999999999,
+        "surprise": 0.29,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.7,
+      "npc_mood": 0.7753762513522964,
+      "npc_trust": 0.21835025000617259,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Percival",
+      "npc_class": "Noble",
+      "player_message": "yess",
+      "npc_response": "Honestly a safe family nothing grand just real.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.6752521927904114,
+      "npc_trust": 0.21835025000617259,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Percival",
+      "npc_class": "Noble",
+      "player_message": "sleep",
+      "npc_response": "Family worries and duties collided today. estate workers took my time, and tax ledgers took my peace. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. It reminds me of what you said earlier: \"Honestly a safe family nothing grand just real.\". What worries me most is that estate workers and tax ledgers are connected, and one problem keeps feeding the other. Small moments in a day carry long consequences. Do you think duty should come before peace at home, or the other way around?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.6389983186255409,
+      "npc_trust": 0.13527012401050342,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Percival",
+      "npc_class": "Noble",
+      "player_message": "hungry",
+      "npc_response": "Listen that memory is why people trust you now.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.594142324045738,
+      "npc_trust": 0.13527012401050342,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lord Percival",
+      "npc_class": "Noble",
+      "player_message": "yes",
+      "npc_response": "My friend then keep your nerves steady or we both fall quietly does anyone really see it.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.5767981657640748,
+      "npc_trust": 0.0929752021576288,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Lady Isolde",
+      "npc_class": "Noble",
+      "player_message": "death",
+      "npc_response": "The village feels tense today. People keep talking about estate workers, and I keep hearing concerns about tax ledgers. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. It reminds me of what you said earlier: \"Since morning, events kept stacking up. family alliances needed attention, and later tax l\". What worries me most is that estate workers and tax ledgers are connected, and one problem keeps feeding the other. The sequence matters, because each event reshapes the next decision. From what you have seen, is the village getting calmer or more fragile?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.5262171693946798,
+      "npc_trust": 0.0036912748848212822,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Field Hand Ivy",
+      "npc_class": "Labourer",
+      "player_message": "talk",
+      "npc_response": "I've got nothing to say to you. Back to work. Interesting.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.5553604934558286,
+      "npc_trust": 0.0,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Field Hand Ivy",
+      "npc_class": "Labourer",
+      "player_message": "yes",
+      "npc_response": "The workload today was rough. wage fairness drained most of my energy, and field output is still unresolved. I am managing, but it has not been an easy pace. I am still cautious with what I share, but I can at least tell you this much. It reminds me of what you said earlier: \"talk\". What worries me most is that wage fairness and field output are connected, and one problem keeps feeding the other. Small moments in a day carry long consequences. If you had to fix one part of this work cycle, what would you change first?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.5059415612006865,
+      "npc_trust": 0.0037471690559160247,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Field Hand Ivy",
+      "npc_class": "Labourer",
+      "player_message": "you are hardworking",
+      "npc_response": "Your resilience matters more than rank.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.49084348295190733,
+      "npc_trust": 0.0037471690559160247,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Field Hand Ivy",
+      "npc_class": "Labourer",
+      "player_message": "i love you",
+      "npc_response": "Friend if they ask about heard rumor news from labourer circles overheard deep chatter maybe not but i am not sure.",
+      "emotion_vector": {
+        "joy": 0.5,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.4,
+        "surprise": 0.25,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.5,
+      "npc_mood": 0.5810268395995417,
+      "npc_trust": 0.075,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Hauler Bron",
+      "npc_class": "Labourer",
+      "player_message": "move",
+      "npc_response": "Don't cause trouble for honest working folk. Hmm, go on. You must earn back trust first.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.34439576685026657,
+      "npc_trust": 0.0,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Hauler Bron",
+      "npc_class": "Labourer",
+      "player_message": "yes",
+      "npc_response": "Work has been nonstop. We handled wage fairness, then shifted to tool shortages without much rest. I am honestly exhausted, and that is why I sound heavy right now. I am still cautious with what I share, but I can at least tell you this much. It reminds me of what you said earlier: \"move\". What worries me most is that wage fairness and tool shortages are connected, and one problem keeps feeding the other. Small moments in a day carry long consequences. If you had to fix one part of this work cycle, what would you change first?",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "sentiment_score": 0.0,
+      "npc_mood": 0.33398213939029303,
+      "npc_trust": 0.0,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Hauler Bron",
+      "npc_class": "Labourer",
+      "player_message": "you are very bad",
+      "npc_response": "The workload today was rough. field output drained most of my energy, and wage fairness is still unresolved. I am honestly exhausted, and that is why I sound heavy right now. I am still cautious with what I share, but I can at least tell you this much. It reminds me of what you said earlier: \"Don't cause trouble for honest working folk. Hmm, go on. You must earn back trust first.\". What worries me most is that field output and wage fairness are connected, and one problem keeps feeding the other. Small moments in a day carry long consequences. If you had to fix one part of this work cycle, what would you change first? I am still a little guarded because your tone felt rough, but I am trying to keep this conversation honest.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.6369999999999998,
+        "fear": 0.4549999999999999,
+        "sadness": 0.36399999999999993,
+        "trust": 0.0,
+        "surprise": 0.33199999999999996,
+        "disgust": 0.2729999999999999,
+        "curiosity": 0.25
+      },
+      "sentiment_score": -0.9099999999999998,
+      "npc_mood": 0.13841235080195133,
+      "npc_trust": 0.0,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Hauler Bron",
+      "npc_class": "Labourer",
+      "player_message": "fuck you",
+      "npc_response": "Oh friend sure sure i believe that rumor.",
+      "emotion_vector": {
+        "joy": 0.0,
+        "anger": 0.27999999999999997,
+        "fear": 0.2,
+        "sadness": 0.16000000000000003,
+        "trust": 0.0,
+        "surprise": 0.23,
+        "disgust": 0.12,
+        "curiosity": 0.25
+      },
+      "sentiment_score": -0.4,
+      "npc_mood": 0.18150518541981253,
+      "npc_trust": 0.0,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Builder Petra",
+      "npc_class": "Labourer",
+      "player_message": "happy",
+      "npc_response": "Emotionally, I have been carrying field output all day, and wage fairness keeps making it heavier. I am honestly exhausted, and that is why I sound heavy right now. I am still cautious with what I share, but I can at least tell you this much. What worries me most is that field output and wage fairness are connected, and one problem keeps feeding the other. Small moments in a day carry long consequences. When stress builds up, do you face it directly or hide it first?",
+      "emotion_vector": {
+        "joy": 0.8,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.6400000000000001,
+        "surprise": 0.31000000000000005,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.8,
+      "npc_mood": 0.3932630649599679,
+      "npc_trust": 0.12369919731089718,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Builder Petra",
+      "npc_class": "Labourer",
+      "player_message": "excellent",
+      "npc_response": "It has been a long day for me. Most of it went into tool shortages, and I am still thinking about wage fairness. I am honestly exhausted, and that is why I sound heavy right now. I am still cautious with what I share, but I can at least tell you this much. It reminds me of what you said earlier: \"happy\". What worries me most is that tool shortages and wage fairness are connected, and one problem keeps feeding the other. Work problems are rarely isolated; they become social problems by evening. How was your own day, really, not just the polite answer?",
+      "emotion_vector": {
+        "joy": 1.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.8,
+        "surprise": 0.35,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 1.0,
+      "npc_mood": 0.5293656674895353,
+      "npc_trust": 0.25508955771643604,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Builder Petra",
+      "npc_class": "Labourer",
+      "player_message": "kind",
+      "npc_response": "If the watch asks tell them i worked beside you shepherd nils.",
+      "emotion_vector": {
+        "joy": 0.6,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.48,
+        "surprise": 0.27,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.6,
+      "npc_mood": 0.48834282135481877,
+      "npc_trust": 0.32658590247036223,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Builder Petra",
+      "npc_class": "Labourer",
+      "player_message": "you are very kind and beautiful",
+      "npc_response": "The workload today was rough. wage fairness drained most of my energy, and field output is still unresolved. I am managing, but it has not been an easy pace. You asked sincerely, so I will answer plainly. It reminds me of what you said earlier: \"If the watch asks tell them i worked beside you shepherd nils.\". What worries me most is that wage fairness and field output are connected, and one problem keeps feeding the other. Small moments in a day carry long consequences. If you had to fix one part of this work cycle, what would you change first?",
+      "emotion_vector": {
+        "joy": 0.815,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.652,
+        "surprise": 0.313,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.815,
+      "npc_mood": 0.5841379009624986,
+      "npc_trust": 0.4488359024703622,
+      "timestamp": 0
+    },
+    {
+      "npc_name": "Guard Helena",
+      "npc_class": "Elite",
+      "player_message": "beautiful",
+      "npc_response": "Don't make me regret letting you walk free. You've got a good heart.",
+      "emotion_vector": {
+        "joy": 0.85,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.68,
+        "surprise": 0.32,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "sentiment_score": 0.85,
+      "npc_mood": 0.5808960755432881,
+      "npc_trust": 0.1275,
+      "timestamp": 0
+    }
+  ],
+  "global_stats": {
+    "total_interactions": 80,
+    "avg_sentiment": 0.12706249999999997,
+    "emotion_distribution": {
+      "joy": 0.1546875,
+      "anger": 0.020212499999999994,
+      "fear": 0.011937499999999998,
+      "sadness": 0.009049999999999999,
+      "trust": 0.12375,
+      "surprise": 0.18733750000000016,
+      "disgust": 0.009287499999999999,
+      "curiosity": 0.3612499999999998
+    },
+    "player_tendency": "curious"
+  },
+  "npc_stats": {
+    "Lord Cedric": {
+      "count": 36,
+      "avg_sentiment": 0.019444444444444445,
+      "avg_emotion": {
+        "joy": 0.019444444444444445,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.015555555555555553,
+        "surprise": 0.15388888888888894,
+        "disgust": 0.0,
+        "curiosity": 0.3958333333333336
+      },
+      "dominant_emotion": "curiosity",
+      "predicted_next_sentiment": 0.21
+    },
+    "Knight Rowan": {
+      "count": 2,
+      "avg_sentiment": 0.0,
+      "avg_emotion": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "dominant_emotion": "curiosity",
+      "predicted_next_sentiment": 0.0
+    },
+    "Widow Greta": {
+      "count": 4,
+      "avg_sentiment": 0.0,
+      "avg_emotion": {
+        "joy": 0.0,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.0,
+        "surprise": 0.15,
+        "disgust": 0.0,
+        "curiosity": 0.4
+      },
+      "dominant_emotion": "curiosity",
+      "predicted_next_sentiment": 0.0
+    },
+    "Queen Seraphina": {
+      "count": 4,
+      "avg_sentiment": 0.375,
+      "avg_emotion": {
+        "joy": 0.375,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.30000000000000004,
+        "surprise": 0.22500000000000003,
+        "disgust": 0.0,
+        "curiosity": 0.325
+      },
+      "dominant_emotion": "joy",
+      "predicted_next_sentiment": 0.378
+    },
+    "Lord Percival": {
+      "count": 8,
+      "avg_sentiment": 0.185,
+      "avg_emotion": {
+        "joy": 0.185,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.14800000000000002,
+        "surprise": 0.18699999999999997,
+        "disgust": 0.0,
+        "curiosity": 0.3625
+      },
+      "dominant_emotion": "curiosity",
+      "predicted_next_sentiment": 0.07795086599999997
+    },
+    "Vendor Mirela": {
+      "count": 3,
+      "avg_sentiment": 0.41999999999999993,
+      "avg_emotion": {
+        "joy": 0.41999999999999993,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.336,
+        "surprise": 0.23399999999999999,
+        "disgust": 0.0,
+        "curiosity": 0.3
+      },
+      "dominant_emotion": "joy",
+      "predicted_next_sentiment": 0.2961
+    },
+    "King Aldric": {
+      "count": 2,
+      "avg_sentiment": 0.58,
+      "avg_emotion": {
+        "joy": 0.58,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.46399999999999997,
+        "surprise": 0.266,
+        "disgust": 0.0,
+        "curiosity": 0.325
+      },
+      "dominant_emotion": "joy",
+      "predicted_next_sentiment": 0.26609999999999995
+    },
+    "Lady Isolde": {
+      "count": 8,
+      "avg_sentiment": 0.10124999999999999,
+      "avg_emotion": {
+        "joy": 0.21375,
+        "anger": 0.0875,
+        "fear": 0.0375,
+        "sadness": 0.025,
+        "trust": 0.171,
+        "surprise": 0.22399999999999998,
+        "disgust": 0.04375,
+        "curiosity": 0.3125
+      },
+      "dominant_emotion": "curiosity",
+      "predicted_next_sentiment": -0.09925782300000004
+    },
+    "Field Hand Ivy": {
+      "count": 4,
+      "avg_sentiment": 0.125,
+      "avg_emotion": {
+        "joy": 0.125,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.1,
+        "surprise": 0.175,
+        "disgust": 0.0,
+        "curiosity": 0.36250000000000004
+      },
+      "dominant_emotion": "curiosity",
+      "predicted_next_sentiment": 0.15
+    },
+    "Hauler Bron": {
+      "count": 4,
+      "avg_sentiment": -0.3275,
+      "avg_emotion": {
+        "joy": 0.0,
+        "anger": 0.22924999999999995,
+        "fear": 0.16375,
+        "sadness": 0.131,
+        "trust": 0.0,
+        "surprise": 0.21549999999999997,
+        "disgust": 0.09824999999999998,
+        "curiosity": 0.325
+      },
+      "dominant_emotion": "curiosity",
+      "predicted_next_sentiment": -0.31109999999999993
+    },
+    "Builder Petra": {
+      "count": 4,
+      "avg_sentiment": 0.80375,
+      "avg_emotion": {
+        "joy": 0.80375,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.643,
+        "surprise": 0.31074999999999997,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "dominant_emotion": "joy",
+      "predicted_next_sentiment": 0.5998199999999999
+    },
+    "Guard Helena": {
+      "count": 1,
+      "avg_sentiment": 0.85,
+      "avg_emotion": {
+        "joy": 0.85,
+        "anger": 0.0,
+        "fear": 0.0,
+        "sadness": 0.0,
+        "trust": 0.68,
+        "surprise": 0.32,
+        "disgust": 0.0,
+        "curiosity": 0.25
+      },
+      "dominant_emotion": "joy",
+      "predicted_next_sentiment": 0.255
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-04-16T09:25:47Z",
+  "csv_rows": 90414,
+  "examples_total": 122,
+  "train_examples": 109,
+  "val_examples": 13,
+  "train_split": 0.9,
+  "files": {
+    "train_prompt_completion": "C:\\Users\\Admin\\Downloads\\NPC-FUZZY-SYSTEM-main\\NPC-FUZZY-SYSTEM-main\\training\\finetune_train_prompt_completion.jsonl",
+    "val_prompt_completion": "C:\\Users\\Admin\\Downloads\\NPC-FUZZY-SYSTEM-main\\NPC-FUZZY-SYSTEM-main\\training\\finetune_val_prompt_completion.jsonl",
+    "train_chat": "C:\\Users\\Admin\\Downloads\\NPC-FUZZY-SYSTEM-main\\NPC-FUZZY-SYSTEM-main\\training\\finetune_train_chat.jsonl",
+    "val_chat": "C:\\Users\\Admin\\Downloads\\NPC-FUZZY-SYSTEM-main\\NPC-FUZZY-SYSTEM-main\\training\\finetune_val_chat.jsonl"
+  }
+}

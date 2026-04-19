@@ -1,0 +1,7 @@
+Tiny16 Basic art pack
+Source: https://opengameart.org/content/tiny-16-basic
+Author: Lanea Zimmerman (Sharm)
+License: CC-BY 4.0 / CC-BY 3.0 / OGA-BY 3.0 (project uses CC-BY attribution)
+Attribution requested by author page: "Please credit Lanea Zimmerman"
+Downloaded on: 2026-04-07
+Files used: basictiles.png, characters.png, things.png
