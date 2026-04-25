@@ -18,7 +18,7 @@ The system allows NPCs to:
 
 The system follows a hybrid AI pipeline:
 
-graph TD
+
     A[Player Message] --> B[Sentiment Analysis NLP]
     B --> C[Topic Detection Fuzzy NLP]
     C --> D[Neural Network Behaviour Bias]
