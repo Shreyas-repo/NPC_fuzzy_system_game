@@ -19,13 +19,13 @@ The system allows NPCs to:
 The system follows a hybrid AI pipeline:
 
 graph TD
-    A[Player Message] --> B[Sentiment Analysis (NLP)]
-    B --> C[Topic Detection (Fuzzy NLP)]
+    A[Player Message] --> B[Sentiment Analysis NLP]
+    B --> C[Topic Detection Fuzzy NLP]
     C --> D[Neural Network Behaviour Bias]
     D --> E[Fuzzy Logic Decision System]
-    E --> F[Dialogue Generation (Dictionary + Markov Variation)]
+    E --> F[Dialogue Generation Dictionary + Markov Variation]
     F --> G[NPC Emotional State Update]
-    G --> H[Social Interaction Learning (Clustering)]
+    G --> H[Social Interaction Learning Clustering]
     H --> I[Research Metrics Evaluation]
     I --> J[Evolutionary Optimization of Fuzzy Weights]
 
