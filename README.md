@@ -1,5 +1,3 @@
-Got it. I have preserved your original, detailed descriptions for every section to ensure your specific technical definitions remain intact. Here is the full, formatted version for your `README.md`.
-
 ***
 
 # Intelligent NPC Interaction System
@@ -20,25 +18,16 @@ The system allows NPCs to:
 
 The system follows a hybrid AI pipeline:
 
-**Player Message**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
-**Sentiment Analysis (NLP)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
-**Topic Detection (Fuzzy NLP)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
-**Neural Network Behaviour Bias**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
-**Fuzzy Logic Decision System**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
-**Dialogue Generation (Dictionary + Markov Variation)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
-**NPC Emotional State Update**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
-**Social Interaction Learning (Clustering)**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
-**Research Metrics Evaluation**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
-**Evolutionary Optimization of Fuzzy Weights**
+graph TD
+    A[Player Message] --> B[Sentiment Analysis (NLP)]
+    B --> C[Topic Detection (Fuzzy NLP)]
+    C --> D[Neural Network Behaviour Bias]
+    D --> E[Fuzzy Logic Decision System]
+    E --> F[Dialogue Generation (Dictionary + Markov Variation)]
+    F --> G[NPC Emotional State Update]
+    G --> H[Social Interaction Learning (Clustering)]
+    H --> I[Research Metrics Evaluation]
+    I --> J[Evolutionary Optimization of Fuzzy Weights]
 
 Each component contributes to making NPC behaviour adaptive and realistic.
 
