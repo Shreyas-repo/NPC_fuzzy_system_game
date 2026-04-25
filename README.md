@@ -1,82 +1,185 @@
-A hybrid, adaptive AI framework designed to create dynamic, realistic, and evolving interactions between players and NPCs. This system fuses Natural Language Processing (NLP), Fuzzy Logic, Neural Networks, Markov Chains, and Evolutionary Algorithms to move beyond static dialogue trees.
+Got it. I have preserved your original, detailed descriptions for every section to ensure your specific technical definitions remain intact. Here is the full, formatted version for your `README.md`.
 
-🚀 Key Features
-Hybrid AI Architecture: Combines symbolic and sub-symbolic AI for robust decision-making.
+***
 
-Adaptive Personalities: NPCs adjust their behavior based on sentiment, trust, and context.
+# Intelligent NPC Interaction System
 
-Memory-Driven Dialogue: Multi-turn conversation awareness with non-repetitive phrasing.
+This project implements an intelligent NPC interaction system combining NLP, Fuzzy Logic, Neural Networks, Markov Chains, Evolutionary Optimization, and Social Simulation to create dynamic, adaptive and realistic conversations between players and NPC characters.
 
-Dynamic Evolution: Uses Evolutionary Optimization to fine-tune behavioral policies over time.
+The system allows NPCs to:
+* understand player sentiment
+* adapt tone and behaviour
+* generate context-aware dialogue
+* learn from previous conversations
+* evolve behaviour over time
+* influence each other socially
 
-Social Simulation: NPCs influence one another, creating emergent group behaviors.
+---
 
-🏗️ High-Level Architecture
-The system follows a sequential pipeline to process player input and generate context-aware responses:
+## 🏗️ High Level Architecture
 
-Player Message
+The system follows a hybrid AI pipeline:
 
-Sentiment Analysis (NLP)
+**Player Message**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
+**Sentiment Analysis (NLP)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
+**Topic Detection (Fuzzy NLP)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
+**Neural Network Behaviour Bias**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
+**Fuzzy Logic Decision System**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
+**Dialogue Generation (Dictionary + Markov Variation)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
+**NPC Emotional State Update**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
+**Social Interaction Learning (Clustering)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
+**Research Metrics Evaluation**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
+**Evolutionary Optimization of Fuzzy Weights**
 
-Topic Detection (Fuzzy NLP)
+Each component contributes to making NPC behaviour adaptive and realistic.
 
-Neural Network Behaviour Bias
+---
 
-Fuzzy Logic Decision System
+## 🧠 Core Components
 
-Dialogue Generation (Dictionary + Markov)
+### 1. Sentiment Analysis Engine
+The player’s message is analyzed using:
+* TextBlob sentiment model (if available)
+* fallback keyword-based sentiment scoring
 
-NPC Emotional State Update
+Output features include:
+* sentiment score (-1 to 1)
+* emotional intensity
+* danger score
+* positive/negative keyword hits
 
-Social Interaction Learning (Clustering)
+> **Example:**
+> "You are useless"
+> → sentiment = -0.8
+> → intensity = 0.25
+> → danger_score = 0.2
+> These values influence NPC mood and response tone.
 
-Research Metrics Evaluation
+### 2. Topic Detection using Fuzzy NLP
+Keywords are mapped to conversation topics:
+* "work" → topic_work
+* "family" → topic_family
+* "village" → topic_village
+* "trade" → topic_economy
 
-Evolutionary Optimization
+> **Example:**
+> Player: "How is work today?"
+> topic_work = 0.9
+> Topic scores guide dialogue selection and behaviour decisions.
 
-🧠 Core Components
-1. Sentiment Analysis Engine
-Analyzes the player's emotional tone and intensity to influence NPC mood.
+### 3. Neural Dialogue Behaviour Model
+A neural network predicts behavioural biases using features such as:
+* sentiment
+* danger level
+* topic score
+* trust
+* mood
+* NPC needs
 
-Tools: TextBlob & keyword-based fallback.
+Output includes:
+* warmth bias
+* sentiment adjustment
+* action preference bias
 
-Outputs: Sentiment score (-1 to 1), emotional intensity, and danger metrics.
+> **Example:**
+> negative player tone → reduced warmth
+> friendly player tone → increased warmth
+> This allows NPC personalities to adapt dynamically.
 
-2. Topic Detection (Fuzzy NLP)
-Maps player input to specific domains (e.g., topic_work, topic_family, topic_economy) using fuzzy matching to guide dialogue focus.
+### 4. Fuzzy Logic Behaviour Controller
+Fuzzy logic converts numeric inputs into behavioural decisions.
+Inputs include:
+* hunger, energy, social_need, trust, mood, danger, topic score, sentiment
 
-3. Neural Dialogue Behaviour Model
-A predictive network that processes current context (trust, needs, mood) to determine behavioral biases like warmth and action preference.
+> **Example fuzzy rules:**
+> IF hunger high → eat
+> IF energy low → sleep
+> IF trust high → socialize
+> IF danger high → flee
+> IF topic_work high → discuss work
 
-4. Fuzzy Logic Behaviour Controller
-Converts complex human-like emotional inputs into concrete NPC actions.
+Each possible action receives a score (eat, sleep, socialize, work, flee, guard). The highest scoring action determines NPC behaviour.
 
-Logic: Uses fuzzy rules (e.g., IF hunger high THEN eat) to score possible actions such as flee, work, or socialize.
+### 5. Dialogue Generation Engine
+Dialogue responses are generated using a hybrid approach:
 
-5. Dialogue Generation Engine
-A three-layered approach for realistic speech:
+**A. Dialogue Templates (Primary Source)**
+Each NPC class has dialogue sets (Royal, Merchant, Guard, Traveller, Labourer, Peasant, Blacksmith, Noble). Each class contains:
+* positive responses
+* neutral responses
+* negative responses
+* low trust responses
 
-Templates: Class-based dialogue sets (Merchant, Noble, Guard, etc.).
+**B. Markov Chain Language Variation**
+A Markov model learns word transitions from previous conversations. It introduces variation in phrasing to prevent repetitive dialogue.
 
-Markov Chains: Dynamically varies phrasing to prevent repetitive, robotic responses.
+**C. Dialogue Memory System**
+NPCs store conversation history (`npc.dialogue_history`). Memory enables:
+* context-aware responses, reduced repetition, multi-turn conversations, adaptive trust changes
 
-Memory System: Stores interaction history to facilitate context-aware, multi-turn conversations.
+**D. Dynamic Response Composition**
+Final response is constructed using layered components:
+* Base response + tone clause + optional history clause + optional trust/mood clause.
 
-6. NPC Emotional & Social State
-Emotional Update: Trust and mood fluctuate based on interaction quality.
+### 6. NPC Emotional State Update
+Each interaction updates NPC internal state:
+* trust increases after positive interaction
+* trust decreases after rude interaction
+* mood changes depending on conversation tone
+* NPC personality evolves over time.
 
-Clustering: Unsupervised learning identifies behavioral clusters; happy NPCs can boost group morale, while fearful clusters increase defensive posture.
+### 7. Social Interaction Learning (Unsupervised Learning)
+NPC behaviour vectors are embedded and clustered using similarity measures.
+* **Example behaviour vector:** [mood, trust, energy, hunger, social_need]
+* Similar NPCs influence each other: happy NPC clusters increase group mood; fearful NPC clusters increase defensive behaviour. This simulates social dynamics.
 
-7. Evolutionary Policy Optimization
-Uses Genetic Algorithms to continuously improve the NPC "brain."
+### 8. Research Metrics System
+The system tracks performance metrics (average mood, average trust, conflict rate, social stability, chat latency). Metrics are stored for analysis in `research_metrics.jsonl`.
 
-Process: A population of fuzzy weight sets is tested; the best performers are selected, mutated, and crossed over to ensure the simulation becomes more realistic over time.
+### 9. Evolutionary Policy Optimization
+Fuzzy controller weights are optimized using a genetic algorithm.
+* **Weights control importance of actions:** eat weight, sleep weight, socialize weight, work weight, flee weight, guard weight.
+* **Evolution process:** generate population of weight sets → evaluate using research metrics → select best performing weights → apply crossover and mutation → produce improved policy.
 
-📊 Research & Metrics
-The system logs performance metrics to research_metrics.jsonl, tracking:
+---
 
-Conflict Rates & Social Stability
+## 🔄 End-to-End Example Flow
+**Player input:** "You are terrible at your job"
 
-Average Mood & Trust
+**Processing steps:**
+1. sentiment analysis detects negative tone
+2. topic detection identifies "work"
+3. neural network reduces warmth bias
+4. fuzzy logic prioritizes defensive behaviour
+5. dialogue generator selects negative merchant response
+6. Markov model adds wording variation
+7. tone clause added
+8. trust decreases
+9. conversation stored in memory
+10. behaviour model updated
+11. evolutionary optimizer adjusts policy
 
-Chat Latency
+**Final response:**
+"I won't tolerate rude customers.
+That was harsh.
+Let's keep this civil."
+
+---
+
+## ✨ Key Features
+* hybrid AI architecture
+* adaptive NPC personalities
+* memory-driven dialogue
+* emotion-aware responses
+* dynamic behaviour evolution
+* realistic social simulation
+* non-repetitive conversations
